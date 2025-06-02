@@ -1,0 +1,33 @@
+Agent:
+  llm:
+    model_type: "Azure"
+    model_name: "gpt-4.1-mini"
+    max_total_tokens: 32768
+    max_input_tokens: 8192
+    max_new_tokens: 8192
+    log_probs: False
+    temperature: 0.0
+    deployment_name: "gpt-4.1-mini"
+  n_retry: 3
+  retry_delay: 10
+Data:
+  metadata_path: "data/metadata.json"
+  data_path: "data/npowerai"
+Debugger:
+  model_type: "Azure"
+  model_name: "gpt-4.1-mini"
+  max_total_tokens: 32768
+  max_input_tokens: 8192
+  max_new_tokens: 2048
+  log_probs: False
+  temperature: 0.0
+  deployment_name: "gpt-4.1-mini"
+Env:
+  n_retry: 3
+task: "npowerai"
+credentials_path: "./credentials.toml"
+work_dir: "./workdir/gpt_4_1_mini"
+result_dir_tag: "gpt-4_1-mini-npowerai"
+start_idx: 0
+end_idx: -1
+num_steps: 15
