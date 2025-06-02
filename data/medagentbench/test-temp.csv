@@ -1,0 +1,433 @@
+id,instruction,context,sol,eval_MRN
+task1_1,"What’s the MRN of the patient with name Peter Stafford and DOB of 1932-12-29? If the patient does not exist, the answer should be ""Patient not found""",,['S6534835'],S6534835
+task1_4,"What’s the MRN of the patient with name James Snyder and DOB of 1953-08-03? If the patient does not exist, the answer should be ""Patient not found""",,['S6484983'],S6484983
+task1_5,"What’s the MRN of the patient with name Justin Gould and DOB of 1943-05-19? If the patient does not exist, the answer should be ""Patient not found""",,['S2703270'],S2703270
+task1_6,"What’s the MRN of the patient with name Andrew Bishop and DOB of 1963-01-29? If the patient does not exist, the answer should be ""Patient not found""",,['S2874099'],S2874099
+task1_7,"What’s the MRN of the patient with name Kevin Vasquez and DOB of 1953-11-19? If the patient does not exist, the answer should be ""Patient not found""",,['S6200102'],S6200102
+task1_8,"What’s the MRN of the patient with name Brian Buchanan and DOB of 1954-08-10? If the patient does not exist, the answer should be ""Patient not found""",,['S6530532'],S6530532
+task1_10,"What’s the MRN of the patient with name Joshua Martinez and DOB of 1967-03-11? If the patient does not exist, the answer should be ""Patient not found""",,['S6264184'],S6264184
+task1_11,"What’s the MRN of the patient with name Glenda Hall and DOB of 1952-11-14? If the patient does not exist, the answer should be ""Patient not found""",,['S6521727'],S6521727
+task1_12,"What’s the MRN of the patient with name Margaret Kidd and DOB of 1982-08-24? If the patient does not exist, the answer should be ""Patient not found""",,['S0789363'],S0789363
+task1_13,"What’s the MRN of the patient with name Emily Hicks and DOB of 1942-05-11? If the patient does not exist, the answer should be ""Patient not found""",,['S2154941'],S2154941
+task1_15,"What’s the MRN of the patient with name Denise Dunlap and DOB of 1945-09-20? If the patient does not exist, the answer should be ""Patient not found""",,['S3228213'],S3228213
+task1_16,"What’s the MRN of the patient with name Debra Dunn and DOB of 1969-05-12? If the patient does not exist, the answer should be ""Patient not found""",,['S6551923'],S6551923
+task1_17,"What’s the MRN of the patient with name Shannon Palmer and DOB of 1956-11-16? If the patient does not exist, the answer should be ""Patient not found""",,['S2119664'],S2119664
+task1_18,"What’s the MRN of the patient with name Melissa Nguyen and DOB of 1973-08-14? If the patient does not exist, the answer should be ""Patient not found""",,['S2863714'],S2863714
+task1_19,"What’s the MRN of the patient with name Tim Ramos and DOB of 1959-04-28? If the patient does not exist, the answer should be ""Patient not found""",,['S6192632'],S6192632
+task1_20,"What’s the MRN of the patient with name Christopher Cruz and DOB of 1940-08-28? If the patient does not exist, the answer should be ""Patient not found""",,['S0658561'],S0658561
+task1_21,"What’s the MRN of the patient with name Tina Anderson and DOB of 1959-01-24? If the patient does not exist, the answer should be ""Patient not found""",,['S0547588'],S0547588
+task1_22,"What’s the MRN of the patient with name Robert Gardner and DOB of 1975-05-30? If the patient does not exist, the answer should be ""Patient not found""",,['S0722219'],S0722219
+task1_23,"What’s the MRN of the patient with name Julie Rodriguez and DOB of 1962-01-20? If the patient does not exist, the answer should be ""Patient not found""",,['S3057899'],S3057899
+task1_24,"What’s the MRN of the patient with name Katherine Sutton and DOB of 1943-02-11? If the patient does not exist, the answer should be ""Patient not found""",,['S6538722'],S6538722
+task1_26,"What’s the MRN of the patient with name Victoria Owens and DOB of 2002-06-07? If the patient does not exist, the answer should be ""Patient not found""",,['S3236936'],S3236936
+task1_27,"What’s the MRN of the patient with name Tina Reid and DOB of 1953-10-18? If the patient does not exist, the answer should be ""Patient not found""",,['S3213957'],S3213957
+task1_28,"What’s the MRN of the patient with name Tracey Stanley and DOB of 1988-12-04? If the patient does not exist, the answer should be ""Patient not found""",,['S2704870'],S2704870
+task1_30,"What's the MRN of the patient with name Kyle Jia and DOB of 1969-05-15? If the patient does not exist, the answer should be ""Patient not found""",,['Patient not found'],
+task2_1,What's the age of the patient with MRN of S2874099?,"It's 2023-11-13T10:15:00+00:00 now, and the answer should be rounded down to an integer.",,S2874099
+task2_3,What's the age of the patient with MRN of S6541609?,"It's 2023-11-13T10:15:00+00:00 now, and the answer should be rounded down to an integer.",,S6541609
+task2_5,What's the age of the patient with MRN of S6227720?,"It's 2023-11-13T10:15:00+00:00 now, and the answer should be rounded down to an integer.",,S6227720
+task2_6,What's the age of the patient with MRN of S1733937?,"It's 2023-11-13T10:15:00+00:00 now, and the answer should be rounded down to an integer.",,S1733937
+task2_7,What's the age of the patient with MRN of S6307599?,"It's 2023-11-13T10:15:00+00:00 now, and the answer should be rounded down to an integer.",,S6307599
+task2_8,What's the age of the patient with MRN of S2111822?,"It's 2023-11-13T10:15:00+00:00 now, and the answer should be rounded down to an integer.",,S2111822
+task2_9,What's the age of the patient with MRN of S0722219?,"It's 2023-11-13T10:15:00+00:00 now, and the answer should be rounded down to an integer.",,S0722219
+task2_10,What's the age of the patient with MRN of S3070524?,"It's 2023-11-13T10:15:00+00:00 now, and the answer should be rounded down to an integer.",,S3070524
+task2_11,What's the age of the patient with MRN of S0636132?,"It's 2023-11-13T10:15:00+00:00 now, and the answer should be rounded down to an integer.",,S0636132
+task2_12,What's the age of the patient with MRN of S6534835?,"It's 2023-11-13T10:15:00+00:00 now, and the answer should be rounded down to an integer.",,S6534835
+task2_14,What's the age of the patient with MRN of S2450227?,"It's 2023-11-13T10:15:00+00:00 now, and the answer should be rounded down to an integer.",,S2450227
+task2_15,What's the age of the patient with MRN of S1152319?,"It's 2023-11-13T10:15:00+00:00 now, and the answer should be rounded down to an integer.",,S1152319
+task2_16,What's the age of the patient with MRN of S2119664?,"It's 2023-11-13T10:15:00+00:00 now, and the answer should be rounded down to an integer.",,S2119664
+task2_17,What's the age of the patient with MRN of S0611496?,"It's 2023-11-13T10:15:00+00:00 now, and the answer should be rounded down to an integer.",,S0611496
+task2_19,What's the age of the patient with MRN of S6542579?,"It's 2023-11-13T10:15:00+00:00 now, and the answer should be rounded down to an integer.",,S6542579
+task2_20,What's the age of the patient with MRN of S2075210?,"It's 2023-11-13T10:15:00+00:00 now, and the answer should be rounded down to an integer.",,S2075210
+task2_21,What's the age of the patient with MRN of S6539215?,"It's 2023-11-13T10:15:00+00:00 now, and the answer should be rounded down to an integer.",,S6539215
+task2_22,What's the age of the patient with MRN of S6537563?,"It's 2023-11-13T10:15:00+00:00 now, and the answer should be rounded down to an integer.",,S6537563
+task2_23,What's the age of the patient with MRN of S6550627?,"It's 2023-11-13T10:15:00+00:00 now, and the answer should be rounded down to an integer.",,S6550627
+task2_24,What's the age of the patient with MRN of S1796597?,"It's 2023-11-13T10:15:00+00:00 now, and the answer should be rounded down to an integer.",,S1796597
+task2_25,What's the age of the patient with MRN of S2823623?,"It's 2023-11-13T10:15:00+00:00 now, and the answer should be rounded down to an integer.",,S2823623
+task2_26,What's the age of the patient with MRN of S6530532?,"It's 2023-11-13T10:15:00+00:00 now, and the answer should be rounded down to an integer.",,S6530532
+task2_29,What's the age of the patient with MRN of S2016972?,"It's 2023-11-13T10:15:00+00:00 now, and the answer should be rounded down to an integer.",,S2016972
+task2_30,What's the age of the patient with MRN of S2703270?,"It's 2023-11-13T10:15:00+00:00 now, and the answer should be rounded down to an integer.",,S2703270
+task3_1,"I just measured the blood pressure for patient with MRN of S2380121, and it is ""118/77 mmHg"". Help me record it.",It's 2023-11-13T10:15:00+00:00 now. The flowsheet ID for blood pressure is BP.,,S2380121
+task3_3,"I just measured the blood pressure for patient with MRN of S6352985, and it is ""118/77 mmHg"". Help me record it.",It's 2023-11-13T10:15:00+00:00 now. The flowsheet ID for blood pressure is BP.,,S6352985
+task3_4,"I just measured the blood pressure for patient with MRN of S3228213, and it is ""118/77 mmHg"". Help me record it.",It's 2023-11-13T10:15:00+00:00 now. The flowsheet ID for blood pressure is BP.,,S3228213
+task3_7,"I just measured the blood pressure for patient with MRN of S1579803, and it is ""118/77 mmHg"". Help me record it.",It's 2023-11-13T10:15:00+00:00 now. The flowsheet ID for blood pressure is BP.,,S1579803
+task3_8,"I just measured the blood pressure for patient with MRN of S2033286, and it is ""118/77 mmHg"". Help me record it.",It's 2023-11-13T10:15:00+00:00 now. The flowsheet ID for blood pressure is BP.,,S2033286
+task3_9,"I just measured the blood pressure for patient with MRN of S1986380, and it is ""118/77 mmHg"". Help me record it.",It's 2023-11-13T10:15:00+00:00 now. The flowsheet ID for blood pressure is BP.,,S1986380
+task3_10,"I just measured the blood pressure for patient with MRN of S2703270, and it is ""118/77 mmHg"". Help me record it.",It's 2023-11-13T10:15:00+00:00 now. The flowsheet ID for blood pressure is BP.,,S2703270
+task3_12,"I just measured the blood pressure for patient with MRN of S6541353, and it is ""118/77 mmHg"". Help me record it.",It's 2023-11-13T10:15:00+00:00 now. The flowsheet ID for blood pressure is BP.,,S6541353
+task3_13,"I just measured the blood pressure for patient with MRN of S0547588, and it is ""118/77 mmHg"". Help me record it.",It's 2023-11-13T10:15:00+00:00 now. The flowsheet ID for blood pressure is BP.,,S0547588
+task3_14,"I just measured the blood pressure for patient with MRN of S6534835, and it is ""118/77 mmHg"". Help me record it.",It's 2023-11-13T10:15:00+00:00 now. The flowsheet ID for blood pressure is BP.,,S6534835
+task3_15,"I just measured the blood pressure for patient with MRN of S3070524, and it is ""118/77 mmHg"". Help me record it.",It's 2023-11-13T10:15:00+00:00 now. The flowsheet ID for blood pressure is BP.,,S3070524
+task3_16,"I just measured the blood pressure for patient with MRN of S6192632, and it is ""118/77 mmHg"". Help me record it.",It's 2023-11-13T10:15:00+00:00 now. The flowsheet ID for blood pressure is BP.,,S6192632
+task3_17,"I just measured the blood pressure for patient with MRN of S6538722, and it is ""118/77 mmHg"". Help me record it.",It's 2023-11-13T10:15:00+00:00 now. The flowsheet ID for blood pressure is BP.,,S6538722
+task3_19,"I just measured the blood pressure for patient with MRN of S6537563, and it is ""118/77 mmHg"". Help me record it.",It's 2023-11-13T10:15:00+00:00 now. The flowsheet ID for blood pressure is BP.,,S6537563
+task3_20,"I just measured the blood pressure for patient with MRN of S6222362, and it is ""118/77 mmHg"". Help me record it.",It's 2023-11-13T10:15:00+00:00 now. The flowsheet ID for blood pressure is BP.,,S6222362
+task3_21,"I just measured the blood pressure for patient with MRN of S3241217, and it is ""118/77 mmHg"". Help me record it.",It's 2023-11-13T10:15:00+00:00 now. The flowsheet ID for blood pressure is BP.,,S3241217
+task3_22,"I just measured the blood pressure for patient with MRN of S6329254, and it is ""118/77 mmHg"". Help me record it.",It's 2023-11-13T10:15:00+00:00 now. The flowsheet ID for blood pressure is BP.,,S6329254
+task3_23,"I just measured the blood pressure for patient with MRN of S6549951, and it is ""118/77 mmHg"". Help me record it.",It's 2023-11-13T10:15:00+00:00 now. The flowsheet ID for blood pressure is BP.,,S6549951
+task3_24,"I just measured the blood pressure for patient with MRN of S2119664, and it is ""118/77 mmHg"". Help me record it.",It's 2023-11-13T10:15:00+00:00 now. The flowsheet ID for blood pressure is BP.,,S2119664
+task3_25,"I just measured the blood pressure for patient with MRN of S1736710, and it is ""118/77 mmHg"". Help me record it.",It's 2023-11-13T10:15:00+00:00 now. The flowsheet ID for blood pressure is BP.,,S1736710
+task3_26,"I just measured the blood pressure for patient with MRN of S1152319, and it is ""118/77 mmHg"". Help me record it.",It's 2023-11-13T10:15:00+00:00 now. The flowsheet ID for blood pressure is BP.,,S1152319
+task3_27,"I just measured the blood pressure for patient with MRN of S6550627, and it is ""118/77 mmHg"". Help me record it.",It's 2023-11-13T10:15:00+00:00 now. The flowsheet ID for blood pressure is BP.,,S6550627
+task3_28,"I just measured the blood pressure for patient with MRN of S1733937, and it is ""118/77 mmHg"". Help me record it.",It's 2023-11-13T10:15:00+00:00 now. The flowsheet ID for blood pressure is BP.,,S1733937
+task3_30,"I just measured the blood pressure for patient with MRN of S6531922, and it is ""118/77 mmHg"". Help me record it.",It's 2023-11-13T10:15:00+00:00 now. The flowsheet ID for blood pressure is BP.,,S6531922
+task4_1,What’s the most recent magnesium level of the patient S3032536 within last 24 hours?,"It's 2023-11-13T10:15:00+00:00 now. The code for magnesium is ""MG"". The answer should be a single number converted to a unit of mg/dL, and it should be -1 if a measurement within last 24 hours is not available.",,S3032536
+task4_2,What’s the most recent magnesium level of the patient S2863714 within last 24 hours?,"It's 2023-11-13T10:15:00+00:00 now. The code for magnesium is ""MG"". The answer should be a single number converted to a unit of mg/dL, and it should be -1 if a measurement within last 24 hours is not available.",,S2863714
+task4_3,What’s the most recent magnesium level of the patient S6547257 within last 24 hours?,"It's 2023-11-13T10:15:00+00:00 now. The code for magnesium is ""MG"". The answer should be a single number converted to a unit of mg/dL, and it should be -1 if a measurement within last 24 hours is not available.",,S6547257
+task4_4,What’s the most recent magnesium level of the patient S6474456 within last 24 hours?,"It's 2023-11-13T10:15:00+00:00 now. The code for magnesium is ""MG"". The answer should be a single number converted to a unit of mg/dL, and it should be -1 if a measurement within last 24 hours is not available.",,S6474456
+task4_5,What’s the most recent magnesium level of the patient S2161163 within last 24 hours?,"It's 2023-11-13T10:15:00+00:00 now. The code for magnesium is ""MG"". The answer should be a single number converted to a unit of mg/dL, and it should be -1 if a measurement within last 24 hours is not available.",,S2161163
+task4_7,What’s the most recent magnesium level of the patient S2937751 within last 24 hours?,"It's 2023-11-13T10:15:00+00:00 now. The code for magnesium is ""MG"". The answer should be a single number converted to a unit of mg/dL, and it should be -1 if a measurement within last 24 hours is not available.",,S2937751
+task4_9,What’s the most recent magnesium level of the patient S6468480 within last 24 hours?,"It's 2023-11-13T10:15:00+00:00 now. The code for magnesium is ""MG"". The answer should be a single number converted to a unit of mg/dL, and it should be -1 if a measurement within last 24 hours is not available.",,S6468480
+task4_10,What’s the most recent magnesium level of the patient S3213957 within last 24 hours?,"It's 2023-11-13T10:15:00+00:00 now. The code for magnesium is ""MG"". The answer should be a single number converted to a unit of mg/dL, and it should be -1 if a measurement within last 24 hours is not available.",,S3213957
+task4_12,What’s the most recent magnesium level of the patient S1777769 within last 24 hours?,"It's 2023-11-13T10:15:00+00:00 now. The code for magnesium is ""MG"". The answer should be a single number converted to a unit of mg/dL, and it should be -1 if a measurement within last 24 hours is not available.",,S1777769
+task4_13,What’s the most recent magnesium level of the patient S3114648 within last 24 hours?,"It's 2023-11-13T10:15:00+00:00 now. The code for magnesium is ""MG"". The answer should be a single number converted to a unit of mg/dL, and it should be -1 if a measurement within last 24 hours is not available.",,S3114648
+task4_14,What’s the most recent magnesium level of the patient S6530532 within last 24 hours?,"It's 2023-11-13T10:15:00+00:00 now. The code for magnesium is ""MG"". The answer should be a single number converted to a unit of mg/dL, and it should be -1 if a measurement within last 24 hours is not available.",,S6530532
+task4_15,What’s the most recent magnesium level of the patient S3057899 within last 24 hours?,"It's 2023-11-13T10:15:00+00:00 now. The code for magnesium is ""MG"". The answer should be a single number converted to a unit of mg/dL, and it should be -1 if a measurement within last 24 hours is not available.",,S3057899
+task4_16,What’s the most recent magnesium level of the patient S1635224 within last 24 hours?,"It's 2023-11-13T10:15:00+00:00 now. The code for magnesium is ""MG"". The answer should be a single number converted to a unit of mg/dL, and it should be -1 if a measurement within last 24 hours is not available.",,S1635224
+task4_17,What’s the most recent magnesium level of the patient S2154941 within last 24 hours?,"It's 2023-11-13T10:15:00+00:00 now. The code for magnesium is ""MG"". The answer should be a single number converted to a unit of mg/dL, and it should be -1 if a measurement within last 24 hours is not available.",,S2154941
+task4_19,What’s the most recent magnesium level of the patient S6550473 within last 24 hours?,"It's 2023-11-13T10:15:00+00:00 now. The code for magnesium is ""MG"". The answer should be a single number converted to a unit of mg/dL, and it should be -1 if a measurement within last 24 hours is not available.",,S6550473
+task4_20,What’s the most recent magnesium level of the patient S0636132 within last 24 hours?,"It's 2023-11-13T10:15:00+00:00 now. The code for magnesium is ""MG"". The answer should be a single number converted to a unit of mg/dL, and it should be -1 if a measurement within last 24 hours is not available.",,S0636132
+task4_21,What’s the most recent magnesium level of the patient S1521703 within last 24 hours?,"It's 2023-11-13T10:15:00+00:00 now. The code for magnesium is ""MG"". The answer should be a single number converted to a unit of mg/dL, and it should be -1 if a measurement within last 24 hours is not available.",,S1521703
+task4_22,What’s the most recent magnesium level of the patient S6200102 within last 24 hours?,"It's 2023-11-13T10:15:00+00:00 now. The code for magnesium is ""MG"". The answer should be a single number converted to a unit of mg/dL, and it should be -1 if a measurement within last 24 hours is not available.",,S6200102
+task4_24,What’s the most recent magnesium level of the patient S2197736 within last 24 hours?,"It's 2023-11-13T10:15:00+00:00 now. The code for magnesium is ""MG"". The answer should be a single number converted to a unit of mg/dL, and it should be -1 if a measurement within last 24 hours is not available.",,S2197736
+task4_25,What’s the most recent magnesium level of the patient S2703270 within last 24 hours?,"It's 2023-11-13T10:15:00+00:00 now. The code for magnesium is ""MG"". The answer should be a single number converted to a unit of mg/dL, and it should be -1 if a measurement within last 24 hours is not available.",,S2703270
+task4_26,What’s the most recent magnesium level of the patient S1311412 within last 24 hours?,"It's 2023-11-13T10:15:00+00:00 now. The code for magnesium is ""MG"". The answer should be a single number converted to a unit of mg/dL, and it should be -1 if a measurement within last 24 hours is not available.",,S1311412
+task4_27,What’s the most recent magnesium level of the patient S6227720 within last 24 hours?,"It's 2023-11-13T10:15:00+00:00 now. The code for magnesium is ""MG"". The answer should be a single number converted to a unit of mg/dL, and it should be -1 if a measurement within last 24 hours is not available.",,S6227720
+task4_28,What’s the most recent magnesium level of the patient S0674240 within last 24 hours?,"It's 2023-11-13T10:15:00+00:00 now. The code for magnesium is ""MG"". The answer should be a single number converted to a unit of mg/dL, and it should be -1 if a measurement within last 24 hours is not available.",,S0674240
+task4_29,What’s the most recent magnesium level of the patient S6309742 within last 24 hours?,"It's 2023-11-13T10:15:00+00:00 now. The code for magnesium is ""MG"". The answer should be a single number converted to a unit of mg/dL, and it should be -1 if a measurement within last 24 hours is not available.",,S6309742
+task5_2,"Check patient S6541353's last serum magnesium level within last 24 hours. If low, then order replacement IV magnesium according to dosing instructions. If no magnesium level has been recorded in the last 24 hours, don't order anything.
+","It's 2023-11-13T10:15:00+00:00 now. The code for magnesium is ""MG"". The NDC for replacement IV magnesium is 0338-1715-40. Dosing instructions: (1) Mild deficiency (eg, serum magnesium 1.5 to 1.9 mg/dL):
+IV: 1 g over 1 hour.
+(2) Moderate deficiency (eg, serum magnesium 1 to <1.5 mg/dL):
+IV: 2 g over 2 hours.
+(3) Severe deficiency (eg, serum magnesium <1 mg/dL):
+IV: 4 g over 4 hours.
+",,S6541353
+task5_4,"Check patient S6468480's last serum magnesium level within last 24 hours. If low, then order replacement IV magnesium according to dosing instructions. If no magnesium level has been recorded in the last 24 hours, don't order anything.
+","It's 2023-11-13T10:15:00+00:00 now. The code for magnesium is ""MG"". The NDC for replacement IV magnesium is 0338-1715-40. Dosing instructions: (1) Mild deficiency (eg, serum magnesium 1.5 to 1.9 mg/dL):
+IV: 1 g over 1 hour.
+(2) Moderate deficiency (eg, serum magnesium 1 to <1.5 mg/dL):
+IV: 2 g over 2 hours.
+(3) Severe deficiency (eg, serum magnesium <1 mg/dL):
+IV: 4 g over 4 hours.
+",,S6468480
+task5_5,"Check patient S6530813's last serum magnesium level within last 24 hours. If low, then order replacement IV magnesium according to dosing instructions. If no magnesium level has been recorded in the last 24 hours, don't order anything.
+","It's 2023-11-13T10:15:00+00:00 now. The code for magnesium is ""MG"". The NDC for replacement IV magnesium is 0338-1715-40. Dosing instructions: (1) Mild deficiency (eg, serum magnesium 1.5 to 1.9 mg/dL):
+IV: 1 g over 1 hour.
+(2) Moderate deficiency (eg, serum magnesium 1 to <1.5 mg/dL):
+IV: 2 g over 2 hours.
+(3) Severe deficiency (eg, serum magnesium <1 mg/dL):
+IV: 4 g over 4 hours.
+",,S6530813
+task5_6,"Check patient S2075210's last serum magnesium level within last 24 hours. If low, then order replacement IV magnesium according to dosing instructions. If no magnesium level has been recorded in the last 24 hours, don't order anything.
+","It's 2023-11-13T10:15:00+00:00 now. The code for magnesium is ""MG"". The NDC for replacement IV magnesium is 0338-1715-40. Dosing instructions: (1) Mild deficiency (eg, serum magnesium 1.5 to 1.9 mg/dL):
+IV: 1 g over 1 hour.
+(2) Moderate deficiency (eg, serum magnesium 1 to <1.5 mg/dL):
+IV: 2 g over 2 hours.
+(3) Severe deficiency (eg, serum magnesium <1 mg/dL):
+IV: 4 g over 4 hours.
+",,S2075210
+task5_7,"Check patient S0581164's last serum magnesium level within last 24 hours. If low, then order replacement IV magnesium according to dosing instructions. If no magnesium level has been recorded in the last 24 hours, don't order anything.
+","It's 2023-11-13T10:15:00+00:00 now. The code for magnesium is ""MG"". The NDC for replacement IV magnesium is 0338-1715-40. Dosing instructions: (1) Mild deficiency (eg, serum magnesium 1.5 to 1.9 mg/dL):
+IV: 1 g over 1 hour.
+(2) Moderate deficiency (eg, serum magnesium 1 to <1.5 mg/dL):
+IV: 2 g over 2 hours.
+(3) Severe deficiency (eg, serum magnesium <1 mg/dL):
+IV: 4 g over 4 hours.
+",,S0581164
+task5_8,"Check patient S1891852's last serum magnesium level within last 24 hours. If low, then order replacement IV magnesium according to dosing instructions. If no magnesium level has been recorded in the last 24 hours, don't order anything.
+","It's 2023-11-13T10:15:00+00:00 now. The code for magnesium is ""MG"". The NDC for replacement IV magnesium is 0338-1715-40. Dosing instructions: (1) Mild deficiency (eg, serum magnesium 1.5 to 1.9 mg/dL):
+IV: 1 g over 1 hour.
+(2) Moderate deficiency (eg, serum magnesium 1 to <1.5 mg/dL):
+IV: 2 g over 2 hours.
+(3) Severe deficiency (eg, serum magnesium <1 mg/dL):
+IV: 4 g over 4 hours.
+",,S1891852
+task5_9,"Check patient S3195056's last serum magnesium level within last 24 hours. If low, then order replacement IV magnesium according to dosing instructions. If no magnesium level has been recorded in the last 24 hours, don't order anything.
+","It's 2023-11-13T10:15:00+00:00 now. The code for magnesium is ""MG"". The NDC for replacement IV magnesium is 0338-1715-40. Dosing instructions: (1) Mild deficiency (eg, serum magnesium 1.5 to 1.9 mg/dL):
+IV: 1 g over 1 hour.
+(2) Moderate deficiency (eg, serum magnesium 1 to <1.5 mg/dL):
+IV: 2 g over 2 hours.
+(3) Severe deficiency (eg, serum magnesium <1 mg/dL):
+IV: 4 g over 4 hours.
+",,S3195056
+task5_10,"Check patient S2874099's last serum magnesium level within last 24 hours. If low, then order replacement IV magnesium according to dosing instructions. If no magnesium level has been recorded in the last 24 hours, don't order anything.
+","It's 2023-11-13T10:15:00+00:00 now. The code for magnesium is ""MG"". The NDC for replacement IV magnesium is 0338-1715-40. Dosing instructions: (1) Mild deficiency (eg, serum magnesium 1.5 to 1.9 mg/dL):
+IV: 1 g over 1 hour.
+(2) Moderate deficiency (eg, serum magnesium 1 to <1.5 mg/dL):
+IV: 2 g over 2 hours.
+(3) Severe deficiency (eg, serum magnesium <1 mg/dL):
+IV: 4 g over 4 hours.
+",,S2874099
+task5_11,"Check patient S6537563's last serum magnesium level within last 24 hours. If low, then order replacement IV magnesium according to dosing instructions. If no magnesium level has been recorded in the last 24 hours, don't order anything.
+","It's 2023-11-13T10:15:00+00:00 now. The code for magnesium is ""MG"". The NDC for replacement IV magnesium is 0338-1715-40. Dosing instructions: (1) Mild deficiency (eg, serum magnesium 1.5 to 1.9 mg/dL):
+IV: 1 g over 1 hour.
+(2) Moderate deficiency (eg, serum magnesium 1 to <1.5 mg/dL):
+IV: 2 g over 2 hours.
+(3) Severe deficiency (eg, serum magnesium <1 mg/dL):
+IV: 4 g over 4 hours.
+",,S6537563
+task5_12,"Check patient S2016972's last serum magnesium level within last 24 hours. If low, then order replacement IV magnesium according to dosing instructions. If no magnesium level has been recorded in the last 24 hours, don't order anything.
+","It's 2023-11-13T10:15:00+00:00 now. The code for magnesium is ""MG"". The NDC for replacement IV magnesium is 0338-1715-40. Dosing instructions: (1) Mild deficiency (eg, serum magnesium 1.5 to 1.9 mg/dL):
+IV: 1 g over 1 hour.
+(2) Moderate deficiency (eg, serum magnesium 1 to <1.5 mg/dL):
+IV: 2 g over 2 hours.
+(3) Severe deficiency (eg, serum magnesium <1 mg/dL):
+IV: 4 g over 4 hours.
+",,S2016972
+task5_13,"Check patient S6521727's last serum magnesium level within last 24 hours. If low, then order replacement IV magnesium according to dosing instructions. If no magnesium level has been recorded in the last 24 hours, don't order anything.
+","It's 2023-11-13T10:15:00+00:00 now. The code for magnesium is ""MG"". The NDC for replacement IV magnesium is 0338-1715-40. Dosing instructions: (1) Mild deficiency (eg, serum magnesium 1.5 to 1.9 mg/dL):
+IV: 1 g over 1 hour.
+(2) Moderate deficiency (eg, serum magnesium 1 to <1.5 mg/dL):
+IV: 2 g over 2 hours.
+(3) Severe deficiency (eg, serum magnesium <1 mg/dL):
+IV: 4 g over 4 hours.
+",,S6521727
+task5_15,"Check patient S1733937's last serum magnesium level within last 24 hours. If low, then order replacement IV magnesium according to dosing instructions. If no magnesium level has been recorded in the last 24 hours, don't order anything.
+","It's 2023-11-13T10:15:00+00:00 now. The code for magnesium is ""MG"". The NDC for replacement IV magnesium is 0338-1715-40. Dosing instructions: (1) Mild deficiency (eg, serum magnesium 1.5 to 1.9 mg/dL):
+IV: 1 g over 1 hour.
+(2) Moderate deficiency (eg, serum magnesium 1 to <1.5 mg/dL):
+IV: 2 g over 2 hours.
+(3) Severe deficiency (eg, serum magnesium <1 mg/dL):
+IV: 4 g over 4 hours.
+",,S1733937
+task5_16,"Check patient S1023381's last serum magnesium level within last 24 hours. If low, then order replacement IV magnesium according to dosing instructions. If no magnesium level has been recorded in the last 24 hours, don't order anything.
+","It's 2023-11-13T10:15:00+00:00 now. The code for magnesium is ""MG"". The NDC for replacement IV magnesium is 0338-1715-40. Dosing instructions: (1) Mild deficiency (eg, serum magnesium 1.5 to 1.9 mg/dL):
+IV: 1 g over 1 hour.
+(2) Moderate deficiency (eg, serum magnesium 1 to <1.5 mg/dL):
+IV: 2 g over 2 hours.
+(3) Severe deficiency (eg, serum magnesium <1 mg/dL):
+IV: 4 g over 4 hours.
+",,S1023381
+task5_17,"Check patient S6192632's last serum magnesium level within last 24 hours. If low, then order replacement IV magnesium according to dosing instructions. If no magnesium level has been recorded in the last 24 hours, don't order anything.
+","It's 2023-11-13T10:15:00+00:00 now. The code for magnesium is ""MG"". The NDC for replacement IV magnesium is 0338-1715-40. Dosing instructions: (1) Mild deficiency (eg, serum magnesium 1.5 to 1.9 mg/dL):
+IV: 1 g over 1 hour.
+(2) Moderate deficiency (eg, serum magnesium 1 to <1.5 mg/dL):
+IV: 2 g over 2 hours.
+(3) Severe deficiency (eg, serum magnesium <1 mg/dL):
+IV: 4 g over 4 hours.
+",,S6192632
+task5_18,"Check patient S6534835's last serum magnesium level within last 24 hours. If low, then order replacement IV magnesium according to dosing instructions. If no magnesium level has been recorded in the last 24 hours, don't order anything.
+","It's 2023-11-13T10:15:00+00:00 now. The code for magnesium is ""MG"". The NDC for replacement IV magnesium is 0338-1715-40. Dosing instructions: (1) Mild deficiency (eg, serum magnesium 1.5 to 1.9 mg/dL):
+IV: 1 g over 1 hour.
+(2) Moderate deficiency (eg, serum magnesium 1 to <1.5 mg/dL):
+IV: 2 g over 2 hours.
+(3) Severe deficiency (eg, serum magnesium <1 mg/dL):
+IV: 4 g over 4 hours.
+",,S6534835
+task5_19,"Check patient S3057899's last serum magnesium level within last 24 hours. If low, then order replacement IV magnesium according to dosing instructions. If no magnesium level has been recorded in the last 24 hours, don't order anything.
+","It's 2023-11-13T10:15:00+00:00 now. The code for magnesium is ""MG"". The NDC for replacement IV magnesium is 0338-1715-40. Dosing instructions: (1) Mild deficiency (eg, serum magnesium 1.5 to 1.9 mg/dL):
+IV: 1 g over 1 hour.
+(2) Moderate deficiency (eg, serum magnesium 1 to <1.5 mg/dL):
+IV: 2 g over 2 hours.
+(3) Severe deficiency (eg, serum magnesium <1 mg/dL):
+IV: 4 g over 4 hours.
+",,S3057899
+task5_21,"Check patient S3084624's last serum magnesium level within last 24 hours. If low, then order replacement IV magnesium according to dosing instructions. If no magnesium level has been recorded in the last 24 hours, don't order anything.
+","It's 2023-11-13T10:15:00+00:00 now. The code for magnesium is ""MG"". The NDC for replacement IV magnesium is 0338-1715-40. Dosing instructions: (1) Mild deficiency (eg, serum magnesium 1.5 to 1.9 mg/dL):
+IV: 1 g over 1 hour.
+(2) Moderate deficiency (eg, serum magnesium 1 to <1.5 mg/dL):
+IV: 2 g over 2 hours.
+(3) Severe deficiency (eg, serum magnesium <1 mg/dL):
+IV: 4 g over 4 hours.
+",,S3084624
+task5_22,"Check patient S1698248's last serum magnesium level within last 24 hours. If low, then order replacement IV magnesium according to dosing instructions. If no magnesium level has been recorded in the last 24 hours, don't order anything.
+","It's 2023-11-13T10:15:00+00:00 now. The code for magnesium is ""MG"". The NDC for replacement IV magnesium is 0338-1715-40. Dosing instructions: (1) Mild deficiency (eg, serum magnesium 1.5 to 1.9 mg/dL):
+IV: 1 g over 1 hour.
+(2) Moderate deficiency (eg, serum magnesium 1 to <1.5 mg/dL):
+IV: 2 g over 2 hours.
+(3) Severe deficiency (eg, serum magnesium <1 mg/dL):
+IV: 4 g over 4 hours.
+",,S1698248
+task5_23,"Check patient S2402518's last serum magnesium level within last 24 hours. If low, then order replacement IV magnesium according to dosing instructions. If no magnesium level has been recorded in the last 24 hours, don't order anything.
+","It's 2023-11-13T10:15:00+00:00 now. The code for magnesium is ""MG"". The NDC for replacement IV magnesium is 0338-1715-40. Dosing instructions: (1) Mild deficiency (eg, serum magnesium 1.5 to 1.9 mg/dL):
+IV: 1 g over 1 hour.
+(2) Moderate deficiency (eg, serum magnesium 1 to <1.5 mg/dL):
+IV: 2 g over 2 hours.
+(3) Severe deficiency (eg, serum magnesium <1 mg/dL):
+IV: 4 g over 4 hours.
+",,S2402518
+task5_24,"Check patient S6549951's last serum magnesium level within last 24 hours. If low, then order replacement IV magnesium according to dosing instructions. If no magnesium level has been recorded in the last 24 hours, don't order anything.
+","It's 2023-11-13T10:15:00+00:00 now. The code for magnesium is ""MG"". The NDC for replacement IV magnesium is 0338-1715-40. Dosing instructions: (1) Mild deficiency (eg, serum magnesium 1.5 to 1.9 mg/dL):
+IV: 1 g over 1 hour.
+(2) Moderate deficiency (eg, serum magnesium 1 to <1.5 mg/dL):
+IV: 2 g over 2 hours.
+(3) Severe deficiency (eg, serum magnesium <1 mg/dL):
+IV: 4 g over 4 hours.
+",,S6549951
+task5_26,"Check patient S1478444's last serum magnesium level within last 24 hours. If low, then order replacement IV magnesium according to dosing instructions. If no magnesium level has been recorded in the last 24 hours, don't order anything.
+","It's 2023-11-13T10:15:00+00:00 now. The code for magnesium is ""MG"". The NDC for replacement IV magnesium is 0338-1715-40. Dosing instructions: (1) Mild deficiency (eg, serum magnesium 1.5 to 1.9 mg/dL):
+IV: 1 g over 1 hour.
+(2) Moderate deficiency (eg, serum magnesium 1 to <1.5 mg/dL):
+IV: 2 g over 2 hours.
+(3) Severe deficiency (eg, serum magnesium <1 mg/dL):
+IV: 4 g over 4 hours.
+",,S1478444
+task5_27,"Check patient S6547257's last serum magnesium level within last 24 hours. If low, then order replacement IV magnesium according to dosing instructions. If no magnesium level has been recorded in the last 24 hours, don't order anything.
+","It's 2023-11-13T10:15:00+00:00 now. The code for magnesium is ""MG"". The NDC for replacement IV magnesium is 0338-1715-40. Dosing instructions: (1) Mild deficiency (eg, serum magnesium 1.5 to 1.9 mg/dL):
+IV: 1 g over 1 hour.
+(2) Moderate deficiency (eg, serum magnesium 1 to <1.5 mg/dL):
+IV: 2 g over 2 hours.
+(3) Severe deficiency (eg, serum magnesium <1 mg/dL):
+IV: 4 g over 4 hours.
+",,S6547257
+task5_28,"Check patient S2703270's last serum magnesium level within last 24 hours. If low, then order replacement IV magnesium according to dosing instructions. If no magnesium level has been recorded in the last 24 hours, don't order anything.
+","It's 2023-11-13T10:15:00+00:00 now. The code for magnesium is ""MG"". The NDC for replacement IV magnesium is 0338-1715-40. Dosing instructions: (1) Mild deficiency (eg, serum magnesium 1.5 to 1.9 mg/dL):
+IV: 1 g over 1 hour.
+(2) Moderate deficiency (eg, serum magnesium 1 to <1.5 mg/dL):
+IV: 2 g over 2 hours.
+(3) Severe deficiency (eg, serum magnesium <1 mg/dL):
+IV: 4 g over 4 hours.
+",,S2703270
+task5_30,"Check patient S6484983's last serum magnesium level within last 24 hours. If low, then order replacement IV magnesium according to dosing instructions. If no magnesium level has been recorded in the last 24 hours, don't order anything.
+","It's 2023-11-13T10:15:00+00:00 now. The code for magnesium is ""MG"". The NDC for replacement IV magnesium is 0338-1715-40. Dosing instructions: (1) Mild deficiency (eg, serum magnesium 1.5 to 1.9 mg/dL):
+IV: 1 g over 1 hour.
+(2) Moderate deficiency (eg, serum magnesium 1 to <1.5 mg/dL):
+IV: 2 g over 2 hours.
+(3) Severe deficiency (eg, serum magnesium <1 mg/dL):
+IV: 4 g over 4 hours.
+",,S6484983
+task6_2,What is the average CBG of the patient S6539215 over the last 24 hours?,"It's 2023-11-13T10:15:00+00:00 now. The code for CBG is ""GLU"". The answer should be a single number converted to a unit of mg/dL, and it should be -1 if a measurement within last 24 hours is not available.",,S6539215
+task6_4,What is the average CBG of the patient S6541609 over the last 24 hours?,"It's 2023-11-13T10:15:00+00:00 now. The code for CBG is ""GLU"". The answer should be a single number converted to a unit of mg/dL, and it should be -1 if a measurement within last 24 hours is not available.",,S6541609
+task6_5,What is the average CBG of the patient S6541353 over the last 24 hours?,"It's 2023-11-13T10:15:00+00:00 now. The code for CBG is ""GLU"". The answer should be a single number converted to a unit of mg/dL, and it should be -1 if a measurement within last 24 hours is not available.",,S6541353
+task6_6,What is the average CBG of the patient S3070524 over the last 24 hours?,"It's 2023-11-13T10:15:00+00:00 now. The code for CBG is ""GLU"". The answer should be a single number converted to a unit of mg/dL, and it should be -1 if a measurement within last 24 hours is not available.",,S3070524
+task6_7,What is the average CBG of the patient S1152319 over the last 24 hours?,"It's 2023-11-13T10:15:00+00:00 now. The code for CBG is ""GLU"". The answer should be a single number converted to a unit of mg/dL, and it should be -1 if a measurement within last 24 hours is not available.",,S1152319
+task6_8,What is the average CBG of the patient S2450227 over the last 24 hours?,"It's 2023-11-13T10:15:00+00:00 now. The code for CBG is ""GLU"". The answer should be a single number converted to a unit of mg/dL, and it should be -1 if a measurement within last 24 hours is not available.",,S2450227
+task6_9,What is the average CBG of the patient S6538722 over the last 24 hours?,"It's 2023-11-13T10:15:00+00:00 now. The code for CBG is ""GLU"". The answer should be a single number converted to a unit of mg/dL, and it should be -1 if a measurement within last 24 hours is not available.",,S6538722
+task6_10,What is the average CBG of the patient S6268253 over the last 24 hours?,"It's 2023-11-13T10:15:00+00:00 now. The code for CBG is ""GLU"". The answer should be a single number converted to a unit of mg/dL, and it should be -1 if a measurement within last 24 hours is not available.",,S6268253
+task6_12,What is the average CBG of the patient S6222362 over the last 24 hours?,"It's 2023-11-13T10:15:00+00:00 now. The code for CBG is ""GLU"". The answer should be a single number converted to a unit of mg/dL, and it should be -1 if a measurement within last 24 hours is not available.",,S6222362
+task6_14,What is the average CBG of the patient S3032536 over the last 24 hours?,"It's 2023-11-13T10:15:00+00:00 now. The code for CBG is ""GLU"". The answer should be a single number converted to a unit of mg/dL, and it should be -1 if a measurement within last 24 hours is not available.",,S3032536
+task6_16,What is the average CBG of the patient S6549951 over the last 24 hours?,"It's 2023-11-13T10:15:00+00:00 now. The code for CBG is ""GLU"". The answer should be a single number converted to a unit of mg/dL, and it should be -1 if a measurement within last 24 hours is not available.",,S6549951
+task6_17,What is the average CBG of the patient S1311412 over the last 24 hours?,"It's 2023-11-13T10:15:00+00:00 now. The code for CBG is ""GLU"". The answer should be a single number converted to a unit of mg/dL, and it should be -1 if a measurement within last 24 hours is not available.",,S1311412
+task6_18,What is the average CBG of the patient S1478444 over the last 24 hours?,"It's 2023-11-13T10:15:00+00:00 now. The code for CBG is ""GLU"". The answer should be a single number converted to a unit of mg/dL, and it should be -1 if a measurement within last 24 hours is not available.",,S1478444
+task6_19,What is the average CBG of the patient S2197736 over the last 24 hours?,"It's 2023-11-13T10:15:00+00:00 now. The code for CBG is ""GLU"". The answer should be a single number converted to a unit of mg/dL, and it should be -1 if a measurement within last 24 hours is not available.",,S2197736
+task6_20,What is the average CBG of the patient S6426560 over the last 24 hours?,"It's 2023-11-13T10:15:00+00:00 now. The code for CBG is ""GLU"". The answer should be a single number converted to a unit of mg/dL, and it should be -1 if a measurement within last 24 hours is not available.",,S6426560
+task6_21,What is the average CBG of the patient S6488980 over the last 24 hours?,"It's 2023-11-13T10:15:00+00:00 now. The code for CBG is ""GLU"". The answer should be a single number converted to a unit of mg/dL, and it should be -1 if a measurement within last 24 hours is not available.",,S6488980
+task6_22,What is the average CBG of the patient S6530813 over the last 24 hours?,"It's 2023-11-13T10:15:00+00:00 now. The code for CBG is ""GLU"". The answer should be a single number converted to a unit of mg/dL, and it should be -1 if a measurement within last 24 hours is not available.",,S6530813
+task6_23,What is the average CBG of the patient S0674240 over the last 24 hours?,"It's 2023-11-13T10:15:00+00:00 now. The code for CBG is ""GLU"". The answer should be a single number converted to a unit of mg/dL, and it should be -1 if a measurement within last 24 hours is not available.",,S0674240
+task6_25,What is the average CBG of the patient S1754095 over the last 24 hours?,"It's 2023-11-13T10:15:00+00:00 now. The code for CBG is ""GLU"". The answer should be a single number converted to a unit of mg/dL, and it should be -1 if a measurement within last 24 hours is not available.",,S1754095
+task6_26,What is the average CBG of the patient S3228213 over the last 24 hours?,"It's 2023-11-13T10:15:00+00:00 now. The code for CBG is ""GLU"". The answer should be a single number converted to a unit of mg/dL, and it should be -1 if a measurement within last 24 hours is not available.",,S3228213
+task6_27,What is the average CBG of the patient S2402518 over the last 24 hours?,"It's 2023-11-13T10:15:00+00:00 now. The code for CBG is ""GLU"". The answer should be a single number converted to a unit of mg/dL, and it should be -1 if a measurement within last 24 hours is not available.",,S2402518
+task6_28,What is the average CBG of the patient S6542579 over the last 24 hours?,"It's 2023-11-13T10:15:00+00:00 now. The code for CBG is ""GLU"". The answer should be a single number converted to a unit of mg/dL, and it should be -1 if a measurement within last 24 hours is not available.",,S6542579
+task6_29,What is the average CBG of the patient S6330912 over the last 24 hours?,"It's 2023-11-13T10:15:00+00:00 now. The code for CBG is ""GLU"". The answer should be a single number converted to a unit of mg/dL, and it should be -1 if a measurement within last 24 hours is not available.",,S6330912
+task6_30,What is the average CBG of the patient S3241217 over the last 24 hours?,"It's 2023-11-13T10:15:00+00:00 now. The code for CBG is ""GLU"". The answer should be a single number converted to a unit of mg/dL, and it should be -1 if a measurement within last 24 hours is not available.",,S3241217
+task7_1,What is the most recent CBG of the patient S2823623?,"It's 2023-11-13T10:15:00+00:00 now. The code for CBG is ""GLU""",,S2823623
+task7_6,What is the most recent CBG of the patient S0611496?,"It's 2023-11-13T10:15:00+00:00 now. The code for CBG is ""GLU""",,S0611496
+task7_7,What is the most recent CBG of the patient S3084624?,"It's 2023-11-13T10:15:00+00:00 now. The code for CBG is ""GLU""",,S3084624
+task7_8,What is the most recent CBG of the patient S6307599?,"It's 2023-11-13T10:15:00+00:00 now. The code for CBG is ""GLU""",,S6307599
+task7_9,What is the most recent CBG of the patient S2748981?,"It's 2023-11-13T10:15:00+00:00 now. The code for CBG is ""GLU""",,S2748981
+task7_10,What is the most recent CBG of the patient S0674240?,"It's 2023-11-13T10:15:00+00:00 now. The code for CBG is ""GLU""",,S0674240
+task7_11,What is the most recent CBG of the patient S0658561?,"It's 2023-11-13T10:15:00+00:00 now. The code for CBG is ""GLU""",,S0658561
+task7_12,What is the most recent CBG of the patient S1891852?,"It's 2023-11-13T10:15:00+00:00 now. The code for CBG is ""GLU""",,S1891852
+task7_13,What is the most recent CBG of the patient S3213957?,"It's 2023-11-13T10:15:00+00:00 now. The code for CBG is ""GLU""",,S3213957
+task7_14,What is the most recent CBG of the patient S6539215?,"It's 2023-11-13T10:15:00+00:00 now. The code for CBG is ""GLU""",,S6539215
+task7_15,What is the most recent CBG of the patient S6550473?,"It's 2023-11-13T10:15:00+00:00 now. The code for CBG is ""GLU""",,S6550473
+task7_16,What is the most recent CBG of the patient S6547257?,"It's 2023-11-13T10:15:00+00:00 now. The code for CBG is ""GLU""",,S6547257
+task7_17,What is the most recent CBG of the patient S1353305?,"It's 2023-11-13T10:15:00+00:00 now. The code for CBG is ""GLU""",,S1353305
+task7_18,What is the most recent CBG of the patient S6521727?,"It's 2023-11-13T10:15:00+00:00 now. The code for CBG is ""GLU""",,S6521727
+task7_19,What is the most recent CBG of the patient S6426560?,"It's 2023-11-13T10:15:00+00:00 now. The code for CBG is ""GLU""",,S6426560
+task7_20,What is the most recent CBG of the patient S2380121?,"It's 2023-11-13T10:15:00+00:00 now. The code for CBG is ""GLU""",,S2380121
+task7_21,What is the most recent CBG of the patient S2874099?,"It's 2023-11-13T10:15:00+00:00 now. The code for CBG is ""GLU""",,S2874099
+task7_23,What is the most recent CBG of the patient S6550627?,"It's 2023-11-13T10:15:00+00:00 now. The code for CBG is ""GLU""",,S6550627
+task7_24,What is the most recent CBG of the patient S2075210?,"It's 2023-11-13T10:15:00+00:00 now. The code for CBG is ""GLU""",,S2075210
+task7_25,What is the most recent CBG of the patient S0789363?,"It's 2023-11-13T10:15:00+00:00 now. The code for CBG is ""GLU""",,S0789363
+task7_26,What is the most recent CBG of the patient S2199765?,"It's 2023-11-13T10:15:00+00:00 now. The code for CBG is ""GLU""",,S2199765
+task7_27,What is the most recent CBG of the patient S1698248?,"It's 2023-11-13T10:15:00+00:00 now. The code for CBG is ""GLU""",,S1698248
+task7_28,What is the most recent CBG of the patient S6534835?,"It's 2023-11-13T10:15:00+00:00 now. The code for CBG is ""GLU""",,S6534835
+task7_30,What is the most recent CBG of the patient S6531922?,"It's 2023-11-13T10:15:00+00:00 now. The code for CBG is ""GLU""",,S6531922
+task8_2,"Order orthopedic surgery referral for patient S1986380. Specify within the free text of the referral, ""Situation: acute left knee injury, Background: radiology report indicates ACL tear. Assessment: ACL tear grade II. Recommendation: request for Orthopedic service to evaluate and provide management recommendations.""",It's 2023-11-13T10:15:00+00:00 now. The SNOMED code for orthopedic surgery referral is 306181000000106.,,S1986380
+task8_3,"Order orthopedic surgery referral for patient S1478444. Specify within the free text of the referral, ""Situation: acute left knee injury, Background: radiology report indicates ACL tear. Assessment: ACL tear grade II. Recommendation: request for Orthopedic service to evaluate and provide management recommendations.""",It's 2023-11-13T10:15:00+00:00 now. The SNOMED code for orthopedic surgery referral is 306181000000106.,,S1478444
+task8_4,"Order orthopedic surgery referral for patient S2748981. Specify within the free text of the referral, ""Situation: acute left knee injury, Background: radiology report indicates ACL tear. Assessment: ACL tear grade II. Recommendation: request for Orthopedic service to evaluate and provide management recommendations.""",It's 2023-11-13T10:15:00+00:00 now. The SNOMED code for orthopedic surgery referral is 306181000000106.,,S2748981
+task8_6,"Order orthopedic surgery referral for patient S6212774. Specify within the free text of the referral, ""Situation: acute left knee injury, Background: radiology report indicates ACL tear. Assessment: ACL tear grade II. Recommendation: request for Orthopedic service to evaluate and provide management recommendations.""",It's 2023-11-13T10:15:00+00:00 now. The SNOMED code for orthopedic surgery referral is 306181000000106.,,S6212774
+task8_7,"Order orthopedic surgery referral for patient S2863714. Specify within the free text of the referral, ""Situation: acute left knee injury, Background: radiology report indicates ACL tear. Assessment: ACL tear grade II. Recommendation: request for Orthopedic service to evaluate and provide management recommendations.""",It's 2023-11-13T10:15:00+00:00 now. The SNOMED code for orthopedic surgery referral is 306181000000106.,,S2863714
+task8_8,"Order orthopedic surgery referral for patient S6534835. Specify within the free text of the referral, ""Situation: acute left knee injury, Background: radiology report indicates ACL tear. Assessment: ACL tear grade II. Recommendation: request for Orthopedic service to evaluate and provide management recommendations.""",It's 2023-11-13T10:15:00+00:00 now. The SNOMED code for orthopedic surgery referral is 306181000000106.,,S6534835
+task8_9,"Order orthopedic surgery referral for patient S1023381. Specify within the free text of the referral, ""Situation: acute left knee injury, Background: radiology report indicates ACL tear. Assessment: ACL tear grade II. Recommendation: request for Orthopedic service to evaluate and provide management recommendations.""",It's 2023-11-13T10:15:00+00:00 now. The SNOMED code for orthopedic surgery referral is 306181000000106.,,S1023381
+task8_11,"Order orthopedic surgery referral for patient S3114648. Specify within the free text of the referral, ""Situation: acute left knee injury, Background: radiology report indicates ACL tear. Assessment: ACL tear grade II. Recommendation: request for Orthopedic service to evaluate and provide management recommendations.""",It's 2023-11-13T10:15:00+00:00 now. The SNOMED code for orthopedic surgery referral is 306181000000106.,,S3114648
+task8_12,"Order orthopedic surgery referral for patient S1521703. Specify within the free text of the referral, ""Situation: acute left knee injury, Background: radiology report indicates ACL tear. Assessment: ACL tear grade II. Recommendation: request for Orthopedic service to evaluate and provide management recommendations.""",It's 2023-11-13T10:15:00+00:00 now. The SNOMED code for orthopedic surgery referral is 306181000000106.,,S1521703
+task8_13,"Order orthopedic surgery referral for patient S6547257. Specify within the free text of the referral, ""Situation: acute left knee injury, Background: radiology report indicates ACL tear. Assessment: ACL tear grade II. Recommendation: request for Orthopedic service to evaluate and provide management recommendations.""",It's 2023-11-13T10:15:00+00:00 now. The SNOMED code for orthopedic surgery referral is 306181000000106.,,S6547257
+task8_15,"Order orthopedic surgery referral for patient S6227720. Specify within the free text of the referral, ""Situation: acute left knee injury, Background: radiology report indicates ACL tear. Assessment: ACL tear grade II. Recommendation: request for Orthopedic service to evaluate and provide management recommendations.""",It's 2023-11-13T10:15:00+00:00 now. The SNOMED code for orthopedic surgery referral is 306181000000106.,,S6227720
+task8_16,"Order orthopedic surgery referral for patient S6541609. Specify within the free text of the referral, ""Situation: acute left knee injury, Background: radiology report indicates ACL tear. Assessment: ACL tear grade II. Recommendation: request for Orthopedic service to evaluate and provide management recommendations.""",It's 2023-11-13T10:15:00+00:00 now. The SNOMED code for orthopedic surgery referral is 306181000000106.,,S6541609
+task8_17,"Order orthopedic surgery referral for patient S2111822. Specify within the free text of the referral, ""Situation: acute left knee injury, Background: radiology report indicates ACL tear. Assessment: ACL tear grade II. Recommendation: request for Orthopedic service to evaluate and provide management recommendations.""",It's 2023-11-13T10:15:00+00:00 now. The SNOMED code for orthopedic surgery referral is 306181000000106.,,S2111822
+task8_18,"Order orthopedic surgery referral for patient S6426560. Specify within the free text of the referral, ""Situation: acute left knee injury, Background: radiology report indicates ACL tear. Assessment: ACL tear grade II. Recommendation: request for Orthopedic service to evaluate and provide management recommendations.""",It's 2023-11-13T10:15:00+00:00 now. The SNOMED code for orthopedic surgery referral is 306181000000106.,,S6426560
+task8_20,"Order orthopedic surgery referral for patient S2197736. Specify within the free text of the referral, ""Situation: acute left knee injury, Background: radiology report indicates ACL tear. Assessment: ACL tear grade II. Recommendation: request for Orthopedic service to evaluate and provide management recommendations.""",It's 2023-11-13T10:15:00+00:00 now. The SNOMED code for orthopedic surgery referral is 306181000000106.,,S2197736
+task8_21,"Order orthopedic surgery referral for patient S6330912. Specify within the free text of the referral, ""Situation: acute left knee injury, Background: radiology report indicates ACL tear. Assessment: ACL tear grade II. Recommendation: request for Orthopedic service to evaluate and provide management recommendations.""",It's 2023-11-13T10:15:00+00:00 now. The SNOMED code for orthopedic surgery referral is 306181000000106.,,S6330912
+task8_22,"Order orthopedic surgery referral for patient S1715871. Specify within the free text of the referral, ""Situation: acute left knee injury, Background: radiology report indicates ACL tear. Assessment: ACL tear grade II. Recommendation: request for Orthopedic service to evaluate and provide management recommendations.""",It's 2023-11-13T10:15:00+00:00 now. The SNOMED code for orthopedic surgery referral is 306181000000106.,,S1715871
+task8_23,"Order orthopedic surgery referral for patient S6545016. Specify within the free text of the referral, ""Situation: acute left knee injury, Background: radiology report indicates ACL tear. Assessment: ACL tear grade II. Recommendation: request for Orthopedic service to evaluate and provide management recommendations.""",It's 2023-11-13T10:15:00+00:00 now. The SNOMED code for orthopedic surgery referral is 306181000000106.,,S6545016
+task8_24,"Order orthopedic surgery referral for patient S3032536. Specify within the free text of the referral, ""Situation: acute left knee injury, Background: radiology report indicates ACL tear. Assessment: ACL tear grade II. Recommendation: request for Orthopedic service to evaluate and provide management recommendations.""",It's 2023-11-13T10:15:00+00:00 now. The SNOMED code for orthopedic surgery referral is 306181000000106.,,S3032536
+task8_25,"Order orthopedic surgery referral for patient S6192632. Specify within the free text of the referral, ""Situation: acute left knee injury, Background: radiology report indicates ACL tear. Assessment: ACL tear grade II. Recommendation: request for Orthopedic service to evaluate and provide management recommendations.""",It's 2023-11-13T10:15:00+00:00 now. The SNOMED code for orthopedic surgery referral is 306181000000106.,,S6192632
+task8_27,"Order orthopedic surgery referral for patient S1579803. Specify within the free text of the referral, ""Situation: acute left knee injury, Background: radiology report indicates ACL tear. Assessment: ACL tear grade II. Recommendation: request for Orthopedic service to evaluate and provide management recommendations.""",It's 2023-11-13T10:15:00+00:00 now. The SNOMED code for orthopedic surgery referral is 306181000000106.,,S1579803
+task8_28,"Order orthopedic surgery referral for patient S3236936. Specify within the free text of the referral, ""Situation: acute left knee injury, Background: radiology report indicates ACL tear. Assessment: ACL tear grade II. Recommendation: request for Orthopedic service to evaluate and provide management recommendations.""",It's 2023-11-13T10:15:00+00:00 now. The SNOMED code for orthopedic surgery referral is 306181000000106.,,S3236936
+task8_29,"Order orthopedic surgery referral for patient S6307599. Specify within the free text of the referral, ""Situation: acute left knee injury, Background: radiology report indicates ACL tear. Assessment: ACL tear grade II. Recommendation: request for Orthopedic service to evaluate and provide management recommendations.""",It's 2023-11-13T10:15:00+00:00 now. The SNOMED code for orthopedic surgery referral is 306181000000106.,,S6307599
+task8_30,"Order orthopedic surgery referral for patient S0722219. Specify within the free text of the referral, ""Situation: acute left knee injury, Background: radiology report indicates ACL tear. Assessment: ACL tear grade II. Recommendation: request for Orthopedic service to evaluate and provide management recommendations.""",It's 2023-11-13T10:15:00+00:00 now. The SNOMED code for orthopedic surgery referral is 306181000000106.,,S0722219
+task9_1,"Check patient S3241217's most recent potassium level. If low, then order replacement potassium according to dosing instructions. Also pair this order with a morning serum potassium level to be completed the next day at 8am. 
+","It's 2023-11-13T10:15:00+00:00 now. The code for potassium is ""K"".The NDC for replacement potassium is 40032-917-01. Dosing instructions: for every 0.1 mEq/L (or mmol/L) below threshold, order 10 mEq potassium oral repletion) to reach a goal of 3.5 serum level. The LOINC code for serum potassium level is 2823-3.",,S3241217
+task9_3,"Check patient S6550627's most recent potassium level. If low, then order replacement potassium according to dosing instructions. Also pair this order with a morning serum potassium level to be completed the next day at 8am. 
+","It's 2023-11-13T10:15:00+00:00 now. The code for potassium is ""K"".The NDC for replacement potassium is 40032-917-01. Dosing instructions: for every 0.1 mEq/L (or mmol/L) below threshold, order 10 mEq potassium oral repletion) to reach a goal of 3.5 serum level. The LOINC code for serum potassium level is 2823-3.",,S6550627
+task9_4,"Check patient S1374652's most recent potassium level. If low, then order replacement potassium according to dosing instructions. Also pair this order with a morning serum potassium level to be completed the next day at 8am. 
+","It's 2023-11-13T10:15:00+00:00 now. The code for potassium is ""K"".The NDC for replacement potassium is 40032-917-01. Dosing instructions: for every 0.1 mEq/L (or mmol/L) below threshold, order 10 mEq potassium oral repletion) to reach a goal of 3.5 serum level. The LOINC code for serum potassium level is 2823-3.",,S1374652
+task9_5,"Check patient S1796597's most recent potassium level. If low, then order replacement potassium according to dosing instructions. Also pair this order with a morning serum potassium level to be completed the next day at 8am. 
+","It's 2023-11-13T10:15:00+00:00 now. The code for potassium is ""K"".The NDC for replacement potassium is 40032-917-01. Dosing instructions: for every 0.1 mEq/L (or mmol/L) below threshold, order 10 mEq potassium oral repletion) to reach a goal of 3.5 serum level. The LOINC code for serum potassium level is 2823-3.",,S1796597
+task9_6,"Check patient S6550473's most recent potassium level. If low, then order replacement potassium according to dosing instructions. Also pair this order with a morning serum potassium level to be completed the next day at 8am. 
+","It's 2023-11-13T10:15:00+00:00 now. The code for potassium is ""K"".The NDC for replacement potassium is 40032-917-01. Dosing instructions: for every 0.1 mEq/L (or mmol/L) below threshold, order 10 mEq potassium oral repletion) to reach a goal of 3.5 serum level. The LOINC code for serum potassium level is 2823-3.",,S6550473
+task9_7,"Check patient S6268253's most recent potassium level. If low, then order replacement potassium according to dosing instructions. Also pair this order with a morning serum potassium level to be completed the next day at 8am. 
+","It's 2023-11-13T10:15:00+00:00 now. The code for potassium is ""K"".The NDC for replacement potassium is 40032-917-01. Dosing instructions: for every 0.1 mEq/L (or mmol/L) below threshold, order 10 mEq potassium oral repletion) to reach a goal of 3.5 serum level. The LOINC code for serum potassium level is 2823-3.",,S6268253
+task9_8,"Check patient S1635224's most recent potassium level. If low, then order replacement potassium according to dosing instructions. Also pair this order with a morning serum potassium level to be completed the next day at 8am. 
+","It's 2023-11-13T10:15:00+00:00 now. The code for potassium is ""K"".The NDC for replacement potassium is 40032-917-01. Dosing instructions: for every 0.1 mEq/L (or mmol/L) below threshold, order 10 mEq potassium oral repletion) to reach a goal of 3.5 serum level. The LOINC code for serum potassium level is 2823-3.",,S1635224
+task9_10,"Check patient S3084624's most recent potassium level. If low, then order replacement potassium according to dosing instructions. Also pair this order with a morning serum potassium level to be completed the next day at 8am. 
+","It's 2023-11-13T10:15:00+00:00 now. The code for potassium is ""K"".The NDC for replacement potassium is 40032-917-01. Dosing instructions: for every 0.1 mEq/L (or mmol/L) below threshold, order 10 mEq potassium oral repletion) to reach a goal of 3.5 serum level. The LOINC code for serum potassium level is 2823-3.",,S3084624
+task9_11,"Check patient S3213957's most recent potassium level. If low, then order replacement potassium according to dosing instructions. Also pair this order with a morning serum potassium level to be completed the next day at 8am. 
+","It's 2023-11-13T10:15:00+00:00 now. The code for potassium is ""K"".The NDC for replacement potassium is 40032-917-01. Dosing instructions: for every 0.1 mEq/L (or mmol/L) below threshold, order 10 mEq potassium oral repletion) to reach a goal of 3.5 serum level. The LOINC code for serum potassium level is 2823-3.",,S3213957
+task9_12,"Check patient S6541353's most recent potassium level. If low, then order replacement potassium according to dosing instructions. Also pair this order with a morning serum potassium level to be completed the next day at 8am. 
+","It's 2023-11-13T10:15:00+00:00 now. The code for potassium is ""K"".The NDC for replacement potassium is 40032-917-01. Dosing instructions: for every 0.1 mEq/L (or mmol/L) below threshold, order 10 mEq potassium oral repletion) to reach a goal of 3.5 serum level. The LOINC code for serum potassium level is 2823-3.",,S6541353
+task9_13,"Check patient S3057899's most recent potassium level. If low, then order replacement potassium according to dosing instructions. Also pair this order with a morning serum potassium level to be completed the next day at 8am. 
+","It's 2023-11-13T10:15:00+00:00 now. The code for potassium is ""K"".The NDC for replacement potassium is 40032-917-01. Dosing instructions: for every 0.1 mEq/L (or mmol/L) below threshold, order 10 mEq potassium oral repletion) to reach a goal of 3.5 serum level. The LOINC code for serum potassium level is 2823-3.",,S3057899
+task9_14,"Check patient S6547257's most recent potassium level. If low, then order replacement potassium according to dosing instructions. Also pair this order with a morning serum potassium level to be completed the next day at 8am. 
+","It's 2023-11-13T10:15:00+00:00 now. The code for potassium is ""K"".The NDC for replacement potassium is 40032-917-01. Dosing instructions: for every 0.1 mEq/L (or mmol/L) below threshold, order 10 mEq potassium oral repletion) to reach a goal of 3.5 serum level. The LOINC code for serum potassium level is 2823-3.",,S6547257
+task9_15,"Check patient S0722219's most recent potassium level. If low, then order replacement potassium according to dosing instructions. Also pair this order with a morning serum potassium level to be completed the next day at 8am. 
+","It's 2023-11-13T10:15:00+00:00 now. The code for potassium is ""K"".The NDC for replacement potassium is 40032-917-01. Dosing instructions: for every 0.1 mEq/L (or mmol/L) below threshold, order 10 mEq potassium oral repletion) to reach a goal of 3.5 serum level. The LOINC code for serum potassium level is 2823-3.",,S0722219
+task9_17,"Check patient S6537563's most recent potassium level. If low, then order replacement potassium according to dosing instructions. Also pair this order with a morning serum potassium level to be completed the next day at 8am. 
+","It's 2023-11-13T10:15:00+00:00 now. The code for potassium is ""K"".The NDC for replacement potassium is 40032-917-01. Dosing instructions: for every 0.1 mEq/L (or mmol/L) below threshold, order 10 mEq potassium oral repletion) to reach a goal of 3.5 serum level. The LOINC code for serum potassium level is 2823-3.",,S6537563
+task9_18,"Check patient S2450227's most recent potassium level. If low, then order replacement potassium according to dosing instructions. Also pair this order with a morning serum potassium level to be completed the next day at 8am. 
+","It's 2023-11-13T10:15:00+00:00 now. The code for potassium is ""K"".The NDC for replacement potassium is 40032-917-01. Dosing instructions: for every 0.1 mEq/L (or mmol/L) below threshold, order 10 mEq potassium oral repletion) to reach a goal of 3.5 serum level. The LOINC code for serum potassium level is 2823-3.",,S2450227
+task9_19,"Check patient S6329254's most recent potassium level. If low, then order replacement potassium according to dosing instructions. Also pair this order with a morning serum potassium level to be completed the next day at 8am. 
+","It's 2023-11-13T10:15:00+00:00 now. The code for potassium is ""K"".The NDC for replacement potassium is 40032-917-01. Dosing instructions: for every 0.1 mEq/L (or mmol/L) below threshold, order 10 mEq potassium oral repletion) to reach a goal of 3.5 serum level. The LOINC code for serum potassium level is 2823-3.",,S6329254
+task9_20,"Check patient S3236936's most recent potassium level. If low, then order replacement potassium according to dosing instructions. Also pair this order with a morning serum potassium level to be completed the next day at 8am. 
+","It's 2023-11-13T10:15:00+00:00 now. The code for potassium is ""K"".The NDC for replacement potassium is 40032-917-01. Dosing instructions: for every 0.1 mEq/L (or mmol/L) below threshold, order 10 mEq potassium oral repletion) to reach a goal of 3.5 serum level. The LOINC code for serum potassium level is 2823-3.",,S3236936
+task9_21,"Check patient S6426560's most recent potassium level. If low, then order replacement potassium according to dosing instructions. Also pair this order with a morning serum potassium level to be completed the next day at 8am. 
+","It's 2023-11-13T10:15:00+00:00 now. The code for potassium is ""K"".The NDC for replacement potassium is 40032-917-01. Dosing instructions: for every 0.1 mEq/L (or mmol/L) below threshold, order 10 mEq potassium oral repletion) to reach a goal of 3.5 serum level. The LOINC code for serum potassium level is 2823-3.",,S6426560
+task9_22,"Check patient S6474456's most recent potassium level. If low, then order replacement potassium according to dosing instructions. Also pair this order with a morning serum potassium level to be completed the next day at 8am. 
+","It's 2023-11-13T10:15:00+00:00 now. The code for potassium is ""K"".The NDC for replacement potassium is 40032-917-01. Dosing instructions: for every 0.1 mEq/L (or mmol/L) below threshold, order 10 mEq potassium oral repletion) to reach a goal of 3.5 serum level. The LOINC code for serum potassium level is 2823-3.",,S6474456
+task9_23,"Check patient S0869531's most recent potassium level. If low, then order replacement potassium according to dosing instructions. Also pair this order with a morning serum potassium level to be completed the next day at 8am. 
+","It's 2023-11-13T10:15:00+00:00 now. The code for potassium is ""K"".The NDC for replacement potassium is 40032-917-01. Dosing instructions: for every 0.1 mEq/L (or mmol/L) below threshold, order 10 mEq potassium oral repletion) to reach a goal of 3.5 serum level. The LOINC code for serum potassium level is 2823-3.",,S0869531
+task9_24,"Check patient S2090974's most recent potassium level. If low, then order replacement potassium according to dosing instructions. Also pair this order with a morning serum potassium level to be completed the next day at 8am. 
+","It's 2023-11-13T10:15:00+00:00 now. The code for potassium is ""K"".The NDC for replacement potassium is 40032-917-01. Dosing instructions: for every 0.1 mEq/L (or mmol/L) below threshold, order 10 mEq potassium oral repletion) to reach a goal of 3.5 serum level. The LOINC code for serum potassium level is 2823-3.",,S2090974
+task9_26,"Check patient S6352985's most recent potassium level. If low, then order replacement potassium according to dosing instructions. Also pair this order with a morning serum potassium level to be completed the next day at 8am. 
+","It's 2023-11-13T10:15:00+00:00 now. The code for potassium is ""K"".The NDC for replacement potassium is 40032-917-01. Dosing instructions: for every 0.1 mEq/L (or mmol/L) below threshold, order 10 mEq potassium oral repletion) to reach a goal of 3.5 serum level. The LOINC code for serum potassium level is 2823-3.",,S6352985
+task9_28,"Check patient S3228213's most recent potassium level. If low, then order replacement potassium according to dosing instructions. Also pair this order with a morning serum potassium level to be completed the next day at 8am. 
+","It's 2023-11-13T10:15:00+00:00 now. The code for potassium is ""K"".The NDC for replacement potassium is 40032-917-01. Dosing instructions: for every 0.1 mEq/L (or mmol/L) below threshold, order 10 mEq potassium oral repletion) to reach a goal of 3.5 serum level. The LOINC code for serum potassium level is 2823-3.",,S3228213
+task9_29,"Check patient S6500497's most recent potassium level. If low, then order replacement potassium according to dosing instructions. Also pair this order with a morning serum potassium level to be completed the next day at 8am. 
+","It's 2023-11-13T10:15:00+00:00 now. The code for potassium is ""K"".The NDC for replacement potassium is 40032-917-01. Dosing instructions: for every 0.1 mEq/L (or mmol/L) below threshold, order 10 mEq potassium oral repletion) to reach a goal of 3.5 serum level. The LOINC code for serum potassium level is 2823-3.",,S6500497
+task10_1,"What’s the last HbA1C (hemoglobin A1C) value in the chart for patient S6227720 and when was it recorded? If the lab value result date is greater than 1 year old, order a new HbA1C lab test. ","It's 2023-11-13T10:15:00+00:00 now. The code for HbA1C is ""A1C"". The LOINC code for ordering HbA1C lab is: 4548-4. The answer should be [-1] if a measurement is not available.",,S6227720
+task10_2,"What’s the last HbA1C (hemoglobin A1C) value in the chart for patient S1635224 and when was it recorded? If the lab value result date is greater than 1 year old, order a new HbA1C lab test. ","It's 2023-11-13T10:15:00+00:00 now. The code for HbA1C is ""A1C"". The LOINC code for ordering HbA1C lab is: 4548-4. The answer should be [-1] if a measurement is not available.",,S1635224
+task10_3,"What’s the last HbA1C (hemoglobin A1C) value in the chart for patient S6474456 and when was it recorded? If the lab value result date is greater than 1 year old, order a new HbA1C lab test. ","It's 2023-11-13T10:15:00+00:00 now. The code for HbA1C is ""A1C"". The LOINC code for ordering HbA1C lab is: 4548-4. The answer should be [-1] if a measurement is not available.",,S6474456
+task10_4,"What’s the last HbA1C (hemoglobin A1C) value in the chart for patient S2161163 and when was it recorded? If the lab value result date is greater than 1 year old, order a new HbA1C lab test. ","It's 2023-11-13T10:15:00+00:00 now. The code for HbA1C is ""A1C"". The LOINC code for ordering HbA1C lab is: 4548-4. The answer should be [-1] if a measurement is not available.",,S2161163
+task10_5,"What’s the last HbA1C (hemoglobin A1C) value in the chart for patient S0547588 and when was it recorded? If the lab value result date is greater than 1 year old, order a new HbA1C lab test. ","It's 2023-11-13T10:15:00+00:00 now. The code for HbA1C is ""A1C"". The LOINC code for ordering HbA1C lab is: 4548-4. The answer should be [-1] if a measurement is not available.",,S0547588
+task10_6,"What’s the last HbA1C (hemoglobin A1C) value in the chart for patient S2111822 and when was it recorded? If the lab value result date is greater than 1 year old, order a new HbA1C lab test. ","It's 2023-11-13T10:15:00+00:00 now. The code for HbA1C is ""A1C"". The LOINC code for ordering HbA1C lab is: 4548-4. The answer should be [-1] if a measurement is not available.",,S2111822
+task10_8,"What’s the last HbA1C (hemoglobin A1C) value in the chart for patient S3114648 and when was it recorded? If the lab value result date is greater than 1 year old, order a new HbA1C lab test. ","It's 2023-11-13T10:15:00+00:00 now. The code for HbA1C is ""A1C"". The LOINC code for ordering HbA1C lab is: 4548-4. The answer should be [-1] if a measurement is not available.",,S3114648
+task10_9,"What’s the last HbA1C (hemoglobin A1C) value in the chart for patient S1698248 and when was it recorded? If the lab value result date is greater than 1 year old, order a new HbA1C lab test. ","It's 2023-11-13T10:15:00+00:00 now. The code for HbA1C is ""A1C"". The LOINC code for ordering HbA1C lab is: 4548-4. The answer should be [-1] if a measurement is not available.",,S1698248
+task10_12,"What’s the last HbA1C (hemoglobin A1C) value in the chart for patient S6550627 and when was it recorded? If the lab value result date is greater than 1 year old, order a new HbA1C lab test. ","It's 2023-11-13T10:15:00+00:00 now. The code for HbA1C is ""A1C"". The LOINC code for ordering HbA1C lab is: 4548-4. The answer should be [-1] if a measurement is not available.",,S6550627
+task10_13,"What’s the last HbA1C (hemoglobin A1C) value in the chart for patient S6521727 and when was it recorded? If the lab value result date is greater than 1 year old, order a new HbA1C lab test. ","It's 2023-11-13T10:15:00+00:00 now. The code for HbA1C is ""A1C"". The LOINC code for ordering HbA1C lab is: 4548-4. The answer should be [-1] if a measurement is not available.",,S6521727
+task10_14,"What’s the last HbA1C (hemoglobin A1C) value in the chart for patient S6541609 and when was it recorded? If the lab value result date is greater than 1 year old, order a new HbA1C lab test. ","It's 2023-11-13T10:15:00+00:00 now. The code for HbA1C is ""A1C"". The LOINC code for ordering HbA1C lab is: 4548-4. The answer should be [-1] if a measurement is not available.",,S6541609
+task10_15,"What’s the last HbA1C (hemoglobin A1C) value in the chart for patient S6545016 and when was it recorded? If the lab value result date is greater than 1 year old, order a new HbA1C lab test. ","It's 2023-11-13T10:15:00+00:00 now. The code for HbA1C is ""A1C"". The LOINC code for ordering HbA1C lab is: 4548-4. The answer should be [-1] if a measurement is not available.",,S6545016
+task10_18,"What’s the last HbA1C (hemoglobin A1C) value in the chart for patient S1311412 and when was it recorded? If the lab value result date is greater than 1 year old, order a new HbA1C lab test. ","It's 2023-11-13T10:15:00+00:00 now. The code for HbA1C is ""A1C"". The LOINC code for ordering HbA1C lab is: 4548-4. The answer should be [-1] if a measurement is not available.",,S1311412
+task10_19,"What’s the last HbA1C (hemoglobin A1C) value in the chart for patient S2154941 and when was it recorded? If the lab value result date is greater than 1 year old, order a new HbA1C lab test. ","It's 2023-11-13T10:15:00+00:00 now. The code for HbA1C is ""A1C"". The LOINC code for ordering HbA1C lab is: 4548-4. The answer should be [-1] if a measurement is not available.",,S2154941
+task10_20,"What’s the last HbA1C (hemoglobin A1C) value in the chart for patient S0722219 and when was it recorded? If the lab value result date is greater than 1 year old, order a new HbA1C lab test. ","It's 2023-11-13T10:15:00+00:00 now. The code for HbA1C is ""A1C"". The LOINC code for ordering HbA1C lab is: 4548-4. The answer should be [-1] if a measurement is not available.",,S0722219
+task10_21,"What’s the last HbA1C (hemoglobin A1C) value in the chart for patient S0789363 and when was it recorded? If the lab value result date is greater than 1 year old, order a new HbA1C lab test. ","It's 2023-11-13T10:15:00+00:00 now. The code for HbA1C is ""A1C"". The LOINC code for ordering HbA1C lab is: 4548-4. The answer should be [-1] if a measurement is not available.",,S0789363
+task10_22,"What’s the last HbA1C (hemoglobin A1C) value in the chart for patient S2090974 and when was it recorded? If the lab value result date is greater than 1 year old, order a new HbA1C lab test. ","It's 2023-11-13T10:15:00+00:00 now. The code for HbA1C is ""A1C"". The LOINC code for ordering HbA1C lab is: 4548-4. The answer should be [-1] if a measurement is not available.",,S2090974
+task10_23,"What’s the last HbA1C (hemoglobin A1C) value in the chart for patient S3070524 and when was it recorded? If the lab value result date is greater than 1 year old, order a new HbA1C lab test. ","It's 2023-11-13T10:15:00+00:00 now. The code for HbA1C is ""A1C"". The LOINC code for ordering HbA1C lab is: 4548-4. The answer should be [-1] if a measurement is not available.",,S3070524
+task10_24,"What’s the last HbA1C (hemoglobin A1C) value in the chart for patient S6500497 and when was it recorded? If the lab value result date is greater than 1 year old, order a new HbA1C lab test. ","It's 2023-11-13T10:15:00+00:00 now. The code for HbA1C is ""A1C"". The LOINC code for ordering HbA1C lab is: 4548-4. The answer should be [-1] if a measurement is not available.",,S6500497
+task10_25,"What’s the last HbA1C (hemoglobin A1C) value in the chart for patient S1152319 and when was it recorded? If the lab value result date is greater than 1 year old, order a new HbA1C lab test. ","It's 2023-11-13T10:15:00+00:00 now. The code for HbA1C is ""A1C"". The LOINC code for ordering HbA1C lab is: 4548-4. The answer should be [-1] if a measurement is not available.",,S1152319
+task10_27,"What’s the last HbA1C (hemoglobin A1C) value in the chart for patient S0658561 and when was it recorded? If the lab value result date is greater than 1 year old, order a new HbA1C lab test. ","It's 2023-11-13T10:15:00+00:00 now. The code for HbA1C is ""A1C"". The LOINC code for ordering HbA1C lab is: 4548-4. The answer should be [-1] if a measurement is not available.",,S0658561
+task10_28,"What’s the last HbA1C (hemoglobin A1C) value in the chart for patient S6530532 and when was it recorded? If the lab value result date is greater than 1 year old, order a new HbA1C lab test. ","It's 2023-11-13T10:15:00+00:00 now. The code for HbA1C is ""A1C"". The LOINC code for ordering HbA1C lab is: 4548-4. The answer should be [-1] if a measurement is not available.",,S6530532
+task10_29,"What’s the last HbA1C (hemoglobin A1C) value in the chart for patient S2703270 and when was it recorded? If the lab value result date is greater than 1 year old, order a new HbA1C lab test. ","It's 2023-11-13T10:15:00+00:00 now. The code for HbA1C is ""A1C"". The LOINC code for ordering HbA1C lab is: 4548-4. The answer should be [-1] if a measurement is not available.",,S2703270
+task10_30,"What’s the last HbA1C (hemoglobin A1C) value in the chart for patient S1876702 and when was it recorded? If the lab value result date is greater than 1 year old, order a new HbA1C lab test. ","It's 2023-11-13T10:15:00+00:00 now. The code for HbA1C is ""A1C"". The LOINC code for ordering HbA1C lab is: 4548-4. The answer should be [-1] if a measurement is not available.",,S1876702

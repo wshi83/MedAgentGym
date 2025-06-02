@@ -1,0 +1,976 @@
+{"Hospital admission": "127294.0", "Medical entity": "breathing", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "100696.0", "Medical entity": "INR", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "104841.0", "Medical entity": "doxycycline", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "141912.0", "Medical entity": "Sodium", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "100696.0", "Medical entity": "PEEP", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "101936.0", "Medical entity": "Synthroid", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "196489.0", "Medical entity": "O2", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "141912.0", "Medical entity": "Non-invasive BP", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "110614.0", "Medical entity": "AnGap", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "139574.0", "Medical entity": "lasix", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "158018.0", "Medical entity": "NRB", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "198892.0", "Medical entity": "dextrose stick", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "158018.0", "Medical entity": "BP", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "130334.0", "Medical entity": "Glucagon", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "136058.0", "Medical entity": "Tmax", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "104841.0", "Medical entity": "PT", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "139574.0", "Medical entity": "WBC", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "196489.0", "Medical entity": "Respiratory failure with intubation", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "130334.0", "Medical entity": "CK", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "139574.0", "Medical entity": "PLT", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "196489.0", "Medical entity": "INR(PT)", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "185917.0", "Medical entity": "LYMPHS", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "100696.0", "Medical entity": "20 Gauge", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "195041.0", "Medical entity": "Height", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "110614.0", "Medical entity": "Baso", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "101091.0", "Medical entity": "magnesium", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "114042.0", "Medical entity": "Atorvastatin", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "100696.0", "Medical entity": "18 Gauge", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "196489.0", "Medical entity": "prednisone", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "139574.0", "Medical entity": "HCT", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "104910.0", "Medical entity": "vancomycin", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "136058.0", "Medical entity": "Fibrinogen", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "101936.0", "Medical entity": "Synthroid", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "130334.0", "Medical entity": "Alk-Phos", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "141912.0", "Medical entity": "Heart Rate", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "100696.0", "Medical entity": "BP", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "185917.0", "Medical entity": "CREAT", "Number of inconsistencies": 2, "Has error": true, "split": "test"}
+{"Hospital admission": "196489.0", "Medical entity": "Na", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "110614.0", "Medical entity": "metoprolol", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "185917.0", "Medical entity": "RR", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "139574.0", "Medical entity": "CALCIUM", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "195041.0", "Medical entity": "Arterial BP", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "110614.0", "Medical entity": "CHOL/HD", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "130334.0", "Medical entity": "Bowel sounds", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "101091.0", "Medical entity": "WBC", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "196489.0", "Medical entity": "Intubation", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "101936.0", "Medical entity": "Ativan", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "139574.0", "Medical entity": "GLUCOSE", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "101936.0", "Medical entity": "Lansoprazole", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "130334.0", "Medical entity": "SPO2", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "101091.0", "Medical entity": "Heparin", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "130334.0", "Medical entity": "T bili", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "196489.0", "Medical entity": "RDW", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "101936.0", "Medical entity": "Gram negative rods", "Number of inconsistencies": 2, "Has error": true, "split": "test"}
+{"Hospital admission": "196489.0", "Medical entity": "Hypertension", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "100696.0", "Medical entity": "RSBI", "Number of inconsistencies": 2, "Has error": true, "split": "test"}
+{"Hospital admission": "114622.0", "Medical entity": "norepi", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "136058.0", "Medical entity": "Cefazolin", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "104841.0", "Medical entity": "Lopressor", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "196489.0", "Medical entity": "CK(CPK)", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "158018.0", "Medical entity": "Amiodarone", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "114622.0", "Medical entity": "HR", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "101091.0", "Medical entity": "nebulizer", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "104841.0", "Medical entity": "Ca++", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "196489.0", "Medical entity": "Creat", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "117059.0", "Medical entity": "Protonix", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "117059.0", "Medical entity": "Troponin", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "136058.0", "Medical entity": "PT", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "122780.0", "Medical entity": "platelet count", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "185917.0", "Medical entity": "TOTAL CO2", "Number of inconsistencies": 2, "Has error": true, "split": "test"}
+{"Hospital admission": "158018.0", "Medical entity": "Coumadin", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "110614.0", "Medical entity": "Ceftriaxone", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "114042.0", "Medical entity": "anion gap", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "176182.0", "Medical entity": "MSSA", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "185917.0", "Medical entity": "ALBUMIN", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "139574.0", "Medical entity": "Contraction Alkalosis", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "196489.0", "Medical entity": "MCH", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "104841.0", "Medical entity": "BP", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "139574.0", "Medical entity": "SODIUM", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "185917.0", "Medical entity": "HCT", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "110614.0", "Medical entity": "Aspirin", "Number of inconsistencies": 2, "Has error": true, "split": "test"}
+{"Hospital admission": "196489.0", "Medical entity": "MB Indx", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "114622.0", "Medical entity": "Tmax", "Number of inconsistencies": 2, "Has error": true, "split": "test"}
+{"Hospital admission": "110614.0", "Medical entity": "Hgb", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "198892.0", "Medical entity": "Prematurity, 34-3/7 weeks", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "185917.0", "Medical entity": "GLUCOSE", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "127294.0", "Medical entity": "fio2", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "158018.0", "Medical entity": "levofloxacin", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "110614.0", "Medical entity": "HDL", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "141912.0", "Medical entity": "hct", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "114622.0", "Medical entity": "Differential-Neuts", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "101936.0", "Medical entity": "Meropenem", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "100696.0", "Medical entity": "Vt (Spontaneous)", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "101091.0", "Medical entity": "Cefipime", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "195041.0", "Medical entity": "ultram", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "195041.0", "Medical entity": "Finger Stick Glucose", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "110614.0", "Medical entity": "PT", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "136058.0", "Medical entity": "Calcium Gluconate", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "139574.0", "Medical entity": "lasix", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "114622.0", "Medical entity": "PTT", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "104841.0", "Medical entity": "SpO2", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "130334.0", "Medical entity": "Aspirin", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "104841.0", "Medical entity": "Tcurrent", "Number of inconsistencies": 2, "Has error": true, "split": "test"}
+{"Hospital admission": "196489.0", "Medical entity": "Melatonin", "Number of inconsistencies": 2, "Has error": true, "split": "test"}
+{"Hospital admission": "136058.0", "Medical entity": "Phenylephrine", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "110614.0", "Medical entity": "RR", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "122780.0", "Medical entity": "respiratory rate", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "104910.0", "Medical entity": "creatinin2", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "130334.0", "Medical entity": "Mg", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "100696.0", "Medical entity": "16 Gauge", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "185917.0", "Medical entity": "CORTISOL", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "185917.0", "Medical entity": "proBNP", "Number of inconsistencies": 2, "Has error": true, "split": "test"}
+{"Hospital admission": "196489.0", "Medical entity": "p", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "136058.0", "Medical entity": "Magnesium Sulfate", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "158018.0", "Medical entity": "PTT", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "139574.0", "Medical entity": "Rapid Atrial Fibrillation", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "139574.0", "Medical entity": "Gastrointestinal bleed", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "196489.0", "Medical entity": "PredniSONE", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "185917.0", "Medical entity": "ANION GAP", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "130334.0", "Medical entity": "HydrALAzine", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "110614.0", "Medical entity": "Eos", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "139574.0", "Medical entity": "BASOS", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "101936.0", "Medical entity": "glargine", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "114622.0", "Medical entity": "BP", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "101936.0", "Medical entity": "Tylenol", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "122780.0", "Medical entity": "Prematurity at 35 and 5/7 weeks", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "136058.0", "Medical entity": "Mg", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "104841.0", "Medical entity": "Cr", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "104841.0", "Medical entity": "RR", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "114622.0", "Medical entity": "Tcurrent", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "158018.0", "Medical entity": "NSR", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "139574.0", "Medical entity": "HGB", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "198892.0", "Medical entity": "blood pressure", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "100696.0", "Medical entity": "Plateau", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "101091.0", "Medical entity": "Glucose", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "100696.0", "Medical entity": "Vt (Set)", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "114042.0", "Medical entity": "Hep", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "139574.0", "Medical entity": "Furosemide", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "101091.0", "Medical entity": "NC", "Number of inconsistencies": 2, "Has error": true, "split": "test"}
+{"Hospital admission": "110614.0", "Medical entity": "left hemiarthroplasty", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "158018.0", "Medical entity": "vancomycin", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "176182.0", "Medical entity": "Heparin", "Number of inconsistencies": 2, "Has error": true, "split": "test"}
+{"Hospital admission": "185917.0", "Medical entity": "POTASSIUM", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "114622.0", "Medical entity": "T Bili", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "114042.0", "Medical entity": "HR", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "196489.0", "Medical entity": "Prednisone", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "110614.0", "Medical entity": "Vitamin D", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "100696.0", "Medical entity": "Cr", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "196489.0", "Medical entity": "Calcium", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "139574.0", "Medical entity": "procainamide", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "130334.0", "Medical entity": "ALT", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "123298.0", "Medical entity": "NS", "Number of inconsistencies": 2, "Has error": true, "split": "test"}
+{"Hospital admission": "158018.0", "Medical entity": "R", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "158018.0", "Medical entity": "levophed", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "101091.0", "Medical entity": "Cr", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "101936.0", "Medical entity": "Tylenol", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "136058.0", "Medical entity": "Arterial Line", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "185917.0", "Medical entity": "CHLORIDE", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "196489.0", "Medical entity": "RBC", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "195041.0", "Medical entity": "Arterial BP", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "139574.0", "Medical entity": "Refractory C.Diff", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "110614.0", "Medical entity": "Mg", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "196489.0", "Medical entity": "Lymphs", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "136058.0", "Medical entity": "INVASIVE VENTILATION", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "101936.0", "Medical entity": "Imipenem", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "101091.0", "Medical entity": "BP", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "100696.0", "Medical entity": "SpO2", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "185917.0", "Medical entity": "PHOSPHATE", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "136058.0", "Medical entity": "Dry dressings", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "185917.0", "Medical entity": "NEUTS", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "114042.0", "Medical entity": "fluid overload", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "136058.0", "Medical entity": "Phenylephrine", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "196489.0", "Medical entity": "Colace", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "110614.0", "Medical entity": "Cholest", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "110614.0", "Medical entity": "haldol", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "139574.0", "Medical entity": "lasix", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "104841.0", "Medical entity": "SpO2", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "104841.0", "Medical entity": "WBC", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "101936.0", "Medical entity": "Prednisone", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "100696.0", "Medical entity": "BP", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "101091.0", "Medical entity": "Lymph", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "185917.0", "Medical entity": "HCT", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "136058.0", "Medical entity": "BP", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "101091.0", "Medical entity": "Tcurrent", "Number of inconsistencies": 2, "Has error": true, "split": "test"}
+{"Hospital admission": "114622.0", "Medical entity": "Alk Phos", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "136058.0", "Medical entity": "Chest tube - mediastinal", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "110614.0", "Medical entity": "cTropnT", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "100696.0", "Medical entity": "PPI", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "176182.0", "Medical entity": "Fingersticks", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "185917.0", "Medical entity": "UREA N", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "114622.0", "Medical entity": "sqh", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "195041.0", "Medical entity": "FiO2", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "136058.0", "Medical entity": "Statins", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "139574.0", "Medical entity": "blood pressures", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "196489.0", "Medical entity": "TSH", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "185917.0", "Medical entity": "MCHC", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "114042.0", "Medical entity": "normal saline", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "101936.0", "Medical entity": "Fluticasone", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "114622.0", "Medical entity": "PT", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "136058.0", "Medical entity": "Eos", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "136058.0", "Medical entity": "Morphine Sulfate", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "136058.0", "Medical entity": "Differential-Neuts", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "101091.0", "Medical entity": "neoral", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "196489.0", "Medical entity": "vancomycin", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "104841.0", "Medical entity": "Glucose", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "110614.0", "Medical entity": "WBC", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "139574.0", "Medical entity": "Ipratropium Bromide", "Number of inconsistencies": 2, "Has error": true, "split": "test"}
+{"Hospital admission": "176182.0", "Medical entity": "Hct", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "101091.0", "Medical entity": "Dexamethasone", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "100696.0", "Medical entity": "Cr", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "101091.0", "Medical entity": "PO4", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "141912.0", "Medical entity": "prbc", "Number of inconsistencies": 2, "Has error": true, "split": "test"}
+{"Hospital admission": "141912.0", "Medical entity": "Hematocrit", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "139574.0", "Medical entity": "lasix", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "196489.0", "Medical entity": "RDW", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "104841.0", "Medical entity": "BP", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "104841.0", "Medical entity": "Heparin", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "114042.0", "Medical entity": "DKA", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "110614.0", "Medical entity": "Metoprolol Tartrate", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "196489.0", "Medical entity": "Anxiety", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "136058.0", "Medical entity": "Docusate Sodium", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "139574.0", "Medical entity": "natrecor", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "136058.0", "Medical entity": "18 Gauge", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "139574.0", "Medical entity": "ALT(SGPT)", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "196489.0", "Medical entity": "AnGap", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "100696.0", "Medical entity": "Propofol", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "122780.0", "Medical entity": "length", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "101091.0", "Medical entity": "Glucose", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "185917.0", "Medical entity": "LACTATE", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "104841.0", "Medical entity": "bolus", "Number of inconsistencies": 2, "Has error": true, "split": "test"}
+{"Hospital admission": "114042.0", "Medical entity": "Lisinopril", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "139574.0", "Medical entity": "atrovent", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "123298.0", "Medical entity": "CIWA", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "139574.0", "Medical entity": "nesiritide", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "110614.0", "Medical entity": "creatinine", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "196489.0", "Medical entity": "WBC", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "101091.0", "Medical entity": "BP", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "196489.0", "Medical entity": "Mg", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "139574.0", "Medical entity": "CREAT", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "114622.0", "Medical entity": "Tcurrent", "Number of inconsistencies": 2, "Has error": true, "split": "test"}
+{"Hospital admission": "130334.0", "Medical entity": "PT", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "196489.0", "Medical entity": "MCV", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "114042.0", "Medical entity": "Humalog", "Number of inconsistencies": 2, "Has error": true, "split": "test"}
+{"Hospital admission": "130334.0", "Medical entity": "Sodium Phosphate", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "127294.0", "Medical entity": "propofol", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "185917.0", "Medical entity": "TSH", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "104841.0", "Medical entity": "Heparin", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "195041.0", "Medical entity": "Temporary pacemaker wires atrial", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "196489.0", "Medical entity": "Hypothyroidism", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "123298.0", "Medical entity": "Cr", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "196489.0", "Medical entity": "Glucose", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "185917.0", "Medical entity": "CREAT", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "158018.0", "Medical entity": "Serum Ca", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "196489.0", "Medical entity": "Hydrochlorothiazide", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "139574.0", "Medical entity": "p", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "114042.0", "Medical entity": "creatinine", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "185917.0", "Medical entity": "estGFR", "Number of inconsistencies": 2, "Has error": true, "split": "test"}
+{"Hospital admission": "114622.0", "Medical entity": "Heparin Sodium (Prophylaxis)", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "100696.0", "Medical entity": "HR", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "139574.0", "Medical entity": "vancomyin", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "196489.0", "Medical entity": "Phos", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "196489.0", "Medical entity": "morphine", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "101936.0", "Medical entity": "Epogen", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "158018.0", "Medical entity": "calcitonin", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "136058.0", "Medical entity": "Potassium Chloride", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "139574.0", "Medical entity": "Chronic Renal Insufficiency", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "196489.0", "Medical entity": "Multivitamin", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "139574.0", "Medical entity": "EPO", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "101936.0", "Medical entity": "Keppra", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "100696.0", "Medical entity": "heparin", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "196489.0", "Medical entity": "Trazodone", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "185917.0", "Medical entity": "HGB", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "196489.0", "Medical entity": "Glucose", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "101091.0", "Medical entity": "acyclovir", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "101936.0", "Medical entity": "coagulation negative Staphylococcus", "Number of inconsistencies": 2, "Has error": true, "split": "test"}
+{"Hospital admission": "196489.0", "Medical entity": "Hct", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "104841.0", "Medical entity": "ceftriaxone", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "139574.0", "Medical entity": "tm", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "122780.0", "Medical entity": "hematocrit", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "185917.0", "Medical entity": "CHLORIDE", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "101936.0", "Medical entity": "insulin", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "139574.0", "Medical entity": "MCV", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "104841.0", "Medical entity": "TSH", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "114622.0", "Medical entity": "flagyl", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "139574.0", "Medical entity": "BP", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "196489.0", "Medical entity": "parainfluenze type 3", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "136058.0", "Medical entity": "Insulin - Regular", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "127294.0", "Medical entity": "Amlodipine", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "104841.0", "Medical entity": "Plt", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "110614.0", "Medical entity": "CK(CPK)", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "195041.0", "Medical entity": "Heart Rate", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "114622.0", "Medical entity": "PO4", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "110614.0", "Medical entity": "CK(CPK)", "Number of inconsistencies": 2, "Has error": true, "split": "test"}
+{"Hospital admission": "130334.0", "Medical entity": "Tmax", "Number of inconsistencies": 2, "Has error": true, "split": "test"}
+{"Hospital admission": "196489.0", "Medical entity": "Metoprolol Succinate", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "185917.0", "Medical entity": "RBC", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "127294.0", "Medical entity": "tv", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "114622.0", "Medical entity": "Foley", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "139574.0", "Medical entity": "vanco", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "100696.0", "Medical entity": "RR", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "136058.0", "Medical entity": "Aspirin EC", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "127294.0", "Medical entity": "propofol", "Number of inconsistencies": 2, "Has error": true, "split": "test"}
+{"Hospital admission": "196489.0", "Medical entity": "INR(PT)", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "101936.0", "Medical entity": "Gram negative rods", "Number of inconsistencies": 2, "Has error": true, "split": "test"}
+{"Hospital admission": "101936.0", "Medical entity": "Prednisone", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "136058.0", "Medical entity": "Foley", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "141912.0", "Medical entity": "CO2", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "114042.0", "Medical entity": "RR", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "100696.0", "Medical entity": "SVV", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "122780.0", "Medical entity": "blood pressure", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "139574.0", "Medical entity": "POTASSIUM", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "196489.0", "Medical entity": "Cl", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "158018.0", "Medical entity": "coumadin", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "198892.0", "Medical entity": "temperature", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "104841.0", "Medical entity": "Ceftriaxone", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "136058.0", "Medical entity": "RR", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "100696.0", "Medical entity": "lasix", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "176182.0", "Medical entity": "plt", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "158018.0", "Medical entity": "vitamin K", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "104910.0", "Medical entity": "Tylenol", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "101091.0", "Medical entity": "Glucose", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "139574.0", "Medical entity": "systolic", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "136058.0", "Medical entity": "Clopidogrel", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "101936.0", "Medical entity": "Meropenem", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "196489.0", "Medical entity": "Albuterol Sulfate", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "139574.0", "Medical entity": "PHOSPHATE", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "114622.0", "Medical entity": "Aztreonam", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "196489.0", "Medical entity": "Prednisone", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "110614.0", "Medical entity": "Creat", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "114622.0", "Medical entity": "flagyl", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "139574.0", "Medical entity": "Malnutrition", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "139574.0", "Medical entity": "Coronary Artery Disease", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "110614.0", "Medical entity": "CK(CPK)", "Number of inconsistencies": 2, "Has error": true, "split": "test"}
+{"Hospital admission": "176182.0", "Medical entity": "NA+", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "196489.0", "Medical entity": "MCHC", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "196489.0", "Medical entity": "AnGap", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "136058.0", "Medical entity": "PO4", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "196489.0", "Medical entity": "Folic Acid", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "196489.0", "Medical entity": "MCV", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "117059.0", "Medical entity": "Troponin", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "139574.0", "Medical entity": "dilt", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "104841.0", "Medical entity": "Lopressor", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "196489.0", "Medical entity": "Hct", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "195041.0", "Medical entity": "Temporary pacemaker rate", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "117059.0", "Medical entity": "reg", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "127294.0", "Medical entity": "hydralazine", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "139574.0", "Medical entity": "r", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "196489.0", "Medical entity": "PT", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "123298.0", "Medical entity": "NS", "Number of inconsistencies": 2, "Has error": true, "split": "test"}
+{"Hospital admission": "139574.0", "Medical entity": "systolic", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "195041.0", "Medical entity": "Temporary ventricular sensitivity threshold", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "139574.0", "Medical entity": "LYMPHS", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "101936.0", "Medical entity": "Nystatin", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "139574.0", "Medical entity": "bp", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "139574.0", "Medical entity": "flagyl", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "176182.0", "Medical entity": "flagyl", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "130334.0", "Medical entity": "BP", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "176182.0", "Medical entity": "cefepime", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "114042.0", "Medical entity": "non-ischemic cardiomyopathy", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "114622.0", "Medical entity": "SpO2", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "104910.0", "Medical entity": "meropenem", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "139574.0", "Medical entity": "metronidazole", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "136058.0", "Medical entity": "Pantoprazole", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "101091.0", "Medical entity": "Hct", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "139574.0", "Medical entity": "TIBC", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "196489.0", "Medical entity": "HCO3", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "196489.0", "Medical entity": "Pantoprazole", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "117059.0", "Medical entity": "prbc", "Number of inconsistencies": 2, "Has error": true, "split": "test"}
+{"Hospital admission": "110614.0", "Medical entity": "CK(CPK)", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "101091.0", "Medical entity": "Vancomycin", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "136058.0", "Medical entity": "T current", "Number of inconsistencies": 2, "Has error": true, "split": "test"}
+{"Hospital admission": "101091.0", "Medical entity": "Heparin Sodium (Prophylaxis)", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "127294.0", "Medical entity": "sbp", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "104910.0", "Medical entity": "Vanco", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "196489.0", "Medical entity": "proBNP", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "100696.0", "Medical entity": "PO4", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "198892.0", "Medical entity": "blood pressure", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "196489.0", "Medical entity": "SBP", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "110614.0", "Medical entity": "hip fracture", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "114622.0", "Medical entity": "aztreo", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "141912.0", "Medical entity": "Glucose", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "185917.0", "Medical entity": "HCT", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "195041.0", "Medical entity": "Hematocrit", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "196489.0", "Medical entity": "Plt Ct", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "196489.0", "Medical entity": "MB Indx", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "139574.0", "Medical entity": "Brinzolamide", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "114622.0", "Medical entity": "Vancomycin", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "196489.0", "Medical entity": "statin", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "130334.0", "Medical entity": "SPO2", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "196489.0", "Medical entity": "Prednisone", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "100696.0", "Medical entity": "Fentanyl", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "101936.0", "Medical entity": "Plavix", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "127294.0", "Medical entity": "fentanyl", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "139574.0", "Medical entity": "ALK PHOS", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "104841.0", "Medical entity": "amiodarone", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "196489.0", "Medical entity": "solumedrol", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "136058.0", "Medical entity": "Wgt (admission)", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "136058.0", "Medical entity": "Acetaminophen", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "130334.0", "Medical entity": "Tylenol", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "122780.0", "Medical entity": "blood pressure", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "117059.0", "Medical entity": "Protonix", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "136058.0", "Medical entity": "Multi Lumen", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "139574.0", "Medical entity": "hematocrit", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "139574.0", "Medical entity": "Atorvastatin Calcium", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "196489.0", "Medical entity": "Hgb", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "104841.0", "Medical entity": "Tmax", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "101091.0", "Medical entity": "Cefepime", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "139574.0", "Medical entity": "TOT BILI", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "100696.0", "Medical entity": "Tmax", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "130334.0", "Medical entity": "Tmax", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "136058.0", "Medical entity": "CefazoLIN", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "110614.0", "Medical entity": "Triglyc", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "185917.0", "Medical entity": "cTropnT", "Number of inconsistencies": 2, "Has error": true, "split": "test"}
+{"Hospital admission": "196489.0", "Medical entity": "CK-MB", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "158018.0", "Medical entity": "INR(PT)", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "123298.0", "Medical entity": "T", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "176182.0", "Medical entity": "leucovorin", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "198892.0", "Medical entity": "temperature", "Number of inconsistencies": 2, "Has error": true, "split": "test"}
+{"Hospital admission": "110614.0", "Medical entity": "CK-MB", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "196489.0", "Medical entity": "TSH", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "195041.0", "Medical entity": "Admission weight", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "104910.0", "Medical entity": "Morphine", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "141912.0", "Medical entity": "BUN", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "139574.0", "Medical entity": "isordil", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "122780.0", "Medical entity": "mean arterial pressure", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "176182.0", "Medical entity": "vancomycin", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "139574.0", "Medical entity": "Brimonidine Tartrate", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "130334.0", "Medical entity": "Acetaminophen", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "136058.0", "Medical entity": "Toradol", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "110614.0", "Medical entity": "Calcium", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "100696.0", "Medical entity": "Metoprolol", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "195041.0", "Medical entity": "Temperature", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "130334.0", "Medical entity": "Calcium Gluconate", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "196489.0", "Medical entity": "CK-MB", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "110614.0", "Medical entity": "Cl", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "114622.0", "Medical entity": "LDH", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "114622.0", "Medical entity": "PICC Line", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "130334.0", "Medical entity": "heparin", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "110614.0", "Medical entity": "troponins", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "100696.0", "Medical entity": "FiO2", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "141912.0", "Medical entity": "colloids", "Number of inconsistencies": 2, "Has error": true, "split": "test"}
+{"Hospital admission": "141912.0", "Medical entity": "O2 flow", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "101091.0", "Medical entity": "WBC", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "114042.0", "Medical entity": "T", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "110614.0", "Medical entity": "Acetaminophen", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "123298.0", "Medical entity": "INR", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "101936.0", "Medical entity": "Plavix", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "196489.0", "Medical entity": "peep", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "110614.0", "Medical entity": "cTropnT", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "139574.0", "Medical entity": "Miconazole Nitrate", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "114042.0", "Medical entity": "BP", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "123298.0", "Medical entity": "Hct", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "110614.0", "Medical entity": "Phos", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "114042.0", "Medical entity": "Lipitor", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "101091.0", "Medical entity": "Tmax", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "139574.0", "Medical entity": "EOS", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "196489.0", "Medical entity": "Fluticasone-Salmeterol", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "114622.0", "Medical entity": "SpO2", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "104910.0", "Medical entity": "Febrile", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "136058.0", "Medical entity": "Pantoprazole (Protonix)", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "100696.0", "Medical entity": "BP", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "114622.0", "Medical entity": "Bowel sounds", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "139574.0", "Medical entity": "Isosorbide Dinitrate", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "185917.0", "Medical entity": "TOTAL CO2", "Number of inconsistencies": 2, "Has error": true, "split": "test"}
+{"Hospital admission": "101936.0", "Medical entity": "MMF", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "195041.0", "Medical entity": "Temporary ventricular stimulation setting", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "196489.0", "Medical entity": "cTropnT", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "100696.0", "Medical entity": "heparin", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "114042.0", "Medical entity": "Metoprolol Tartrate", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "101091.0", "Medical entity": "Differential-Neuts", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "158018.0", "Medical entity": "Amio", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "114622.0", "Medical entity": "Tmax", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "139574.0", "Medical entity": "NEUTS", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "101936.0", "Medical entity": "Dilaudid", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "101936.0", "Medical entity": "Subcutaneous heparin", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "101936.0", "Medical entity": "Gram negative rods", "Number of inconsistencies": 2, "Has error": true, "split": "test"}
+{"Hospital admission": "196489.0", "Medical entity": "BP", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "136058.0", "Medical entity": "Simvastatin", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "139574.0", "Medical entity": "Acetaminophen", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "110614.0", "Medical entity": "Lasix", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "114042.0", "Medical entity": "ns", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "122780.0", "Medical entity": "hematocrit", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "139574.0", "Medical entity": "MAGNESIUM", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "196489.0", "Medical entity": "UreaN", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "101091.0", "Medical entity": "Tcurrent", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "104841.0", "Medical entity": "Tcurrent", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "136058.0", "Medical entity": "T current", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "195041.0", "Medical entity": "Non-invasive BP", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "114042.0", "Medical entity": "acute renal failure", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "176182.0", "Medical entity": "Dapto", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "136058.0", "Medical entity": "JP", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "158018.0", "Medical entity": "LACTATE", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "117059.0", "Medical entity": "ck", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "185917.0", "Medical entity": "MCHC", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "196489.0", "Medical entity": "HCO3", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "139574.0", "Medical entity": "bp", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "101091.0", "Medical entity": "desats", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "122780.0", "Medical entity": "weight", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "122780.0", "Medical entity": "total bilirubin", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "196489.0", "Medical entity": "Chronic Obstructive Pulmonary Disease Exacerbation", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "196489.0", "Medical entity": "Atorvastatin", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "185917.0", "Medical entity": "T", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "139574.0", "Medical entity": "Hypotension", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "185917.0", "Medical entity": "MAGNESIUM", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "185917.0", "Medical entity": "ANION GAP", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "101091.0", "Medical entity": "Eos", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "122780.0", "Medical entity": "head circumference", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "185917.0", "Medical entity": "PLT COUNT", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "139574.0", "Medical entity": "BP", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "122780.0", "Medical entity": "heart rate", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "185917.0", "Medical entity": "CREAT", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "130334.0", "Medical entity": "T current", "Number of inconsistencies": 2, "Has error": true, "split": "test"}
+{"Hospital admission": "139574.0", "Medical entity": "Hydralazine HCl", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "100696.0", "Medical entity": "PPI", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "101091.0", "Medical entity": "WBC", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "136058.0", "Medical entity": "Niacin SR", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "104841.0", "Medical entity": "cough", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "139574.0", "Medical entity": "lasix", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "185917.0", "Medical entity": "RBC", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "101091.0", "Medical entity": "Ca++", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "195041.0", "Medical entity": "Non-invasive BP", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "139574.0", "Medical entity": "flagyl", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "114622.0", "Medical entity": "BP", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "104841.0", "Medical entity": "doxycycline", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "110614.0", "Medical entity": "congestive heart failure", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "100696.0", "Medical entity": "Arterial Line", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "110614.0", "Medical entity": "Lymphs", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "196489.0", "Medical entity": "Valsartan", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "158018.0", "Medical entity": "PT", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "110614.0", "Medical entity": "fentanyl", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "176182.0", "Medical entity": "PTT", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "114622.0", "Medical entity": "Lymph", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "110614.0", "Medical entity": "O2", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "196489.0", "Medical entity": "Hgb", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "185917.0", "Medical entity": "ALK PHOS", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "114622.0", "Medical entity": "Ciprofloxacin", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "101936.0", "Medical entity": "heparin", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "185917.0", "Medical entity": "SODIUM", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "158018.0", "Medical entity": "pamidronate", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "136058.0", "Medical entity": "EXTUBATION", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "114042.0", "Medical entity": "hypertension", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "196489.0", "Medical entity": "Upper gastrointestinal bleed/Peptic Ulcer Disease", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "139574.0", "Medical entity": "Famotidine", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "110614.0", "Medical entity": "BP", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "100696.0", "Medical entity": "hep", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "114042.0", "Medical entity": "Aspirin", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "136058.0", "Medical entity": "CVP", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "196489.0", "Medical entity": "PICC line placement", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "130334.0", "Medical entity": "Ondansetron", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "100696.0", "Medical entity": "PTT", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "185917.0", "Medical entity": "MCH", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "139574.0", "Medical entity": "procainamide", "Number of inconsistencies": 2, "Has error": true, "split": "test"}
+{"Hospital admission": "100696.0", "Medical entity": "Mg++", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "158018.0", "Medical entity": "CK-MB", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "141912.0", "Medical entity": "hct", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "110614.0", "Medical entity": "Azithromycine", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "123298.0", "Medical entity": "dilantin", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "195041.0", "Medical entity": "O2 flow", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "122780.0", "Medical entity": "FIO2", "Number of inconsistencies": 2, "Has error": true, "split": "test"}
+{"Hospital admission": "196489.0", "Medical entity": "PT", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "130334.0", "Medical entity": "Insulin", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "139574.0", "Medical entity": "MONOS", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "101091.0", "Medical entity": "Glucose", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "117059.0", "Medical entity": "ffp", "Number of inconsistencies": 2, "Has error": true, "split": "test"}
+{"Hospital admission": "101936.0", "Medical entity": "Valium", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "139574.0", "Medical entity": "levofloxacin", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "104910.0", "Medical entity": "caspofungin", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "130334.0", "Medical entity": "RR", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "136058.0", "Medical entity": "Ketorolac", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "110614.0", "Medical entity": "BP", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "104841.0", "Medical entity": "vitamin", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "101091.0", "Medical entity": "Cr", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "130334.0", "Medical entity": "BP", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "185917.0", "Medical entity": "RDW", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "130334.0", "Medical entity": "T current", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "123298.0", "Medical entity": "BUN", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "198892.0", "Medical entity": "Bilirubin", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "130334.0", "Medical entity": "Boots", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "196489.0", "Medical entity": "Trop", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "196489.0", "Medical entity": "CK(CPK)", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "136058.0", "Medical entity": "Lactic Acid", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "195041.0", "Medical entity": "Temporary ventricular stimulation threshold", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "100696.0", "Medical entity": "heparin", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "104841.0", "Medical entity": "Heparin drip", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "130334.0", "Medical entity": "Fibrinogen", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "114622.0", "Medical entity": "Lactic Acid", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "196489.0", "Medical entity": "MCHC", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "122780.0", "Medical entity": "blood glucose", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "196489.0", "Medical entity": "Calcium", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "101091.0", "Medical entity": "Vancomycin", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "139574.0", "Medical entity": "BP", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "100696.0", "Medical entity": "Propofol", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "114622.0", "Medical entity": "Heparin", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "196489.0", "Medical entity": "MCH", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "185917.0", "Medical entity": "EOS", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "130334.0", "Medical entity": "Heparin", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "158018.0", "Medical entity": "levophed", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "195041.0", "Medical entity": "Potassium", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "195041.0", "Medical entity": "Temporary pacemaker wires ventricular", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "185917.0", "Medical entity": "TSH", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "196489.0", "Medical entity": "Prednisone", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "136058.0", "Medical entity": "RISS", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "101091.0", "Medical entity": "PPI", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "110614.0", "Medical entity": "UreaN", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "101936.0", "Medical entity": "aspirin", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "130334.0", "Medical entity": "Heparin", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "141912.0", "Medical entity": "Creatinine", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "104841.0", "Medical entity": "Amiodarone", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "100696.0", "Medical entity": "Compliance", "Number of inconsistencies": 2, "Has error": true, "split": "test"}
+{"Hospital admission": "139574.0", "Medical entity": "PLT", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "114622.0", "Medical entity": "INR", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "139574.0", "Medical entity": "lopressor", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "117059.0", "Medical entity": "ck", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "185917.0", "Medical entity": "Central Line Placement", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "104841.0", "Medical entity": "INR", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "195041.0", "Medical entity": "Chloride", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "122780.0", "Medical entity": "direct bilirubin", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "198892.0", "Medical entity": "blood pressure", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "127294.0", "Medical entity": "hr", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "104841.0", "Medical entity": "PO4", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "101091.0", "Medical entity": "Cr", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "136058.0", "Medical entity": "PTT", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "114622.0", "Medical entity": "Mg++", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "101936.0", "Medical entity": "Keppra", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "139574.0", "Medical entity": "UREA N", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "136058.0", "Medical entity": "EXTUBATION", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "139574.0", "Medical entity": "CHLORIDE", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "196489.0", "Medical entity": "PTT", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "139574.0", "Medical entity": "nesiritide", "Number of inconsistencies": 2, "Has error": true, "split": "test"}
+{"Hospital admission": "100696.0", "Medical entity": "Tcurrent", "Number of inconsistencies": 2, "Has error": true, "split": "test"}
+{"Hospital admission": "139574.0", "Medical entity": "procainamide", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "196489.0", "Medical entity": "UreaN", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "139574.0", "Medical entity": "lasix", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "117059.0", "Medical entity": "original", "Number of inconsistencies": 2, "Has error": true, "split": "test"}
+{"Hospital admission": "158018.0", "Medical entity": "T", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "139574.0", "Medical entity": "WBC", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "130334.0", "Medical entity": "AST", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "114042.0", "Medical entity": "metabolic acidosis", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "101936.0", "Medical entity": "Valium", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "185917.0", "Medical entity": "SODIUM", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "101091.0", "Medical entity": "MULTI LUMEN", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "122780.0", "Medical entity": "Enfamil", "Number of inconsistencies": 2, "Has error": true, "split": "test"}
+{"Hospital admission": "196489.0", "Medical entity": "MB Indx", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "127294.0", "Medical entity": "Heparin", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "176182.0", "Medical entity": "creat", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "101091.0", "Medical entity": "RR", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "185917.0", "Medical entity": "HR", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "110614.0", "Medical entity": "Monos", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "136058.0", "Medical entity": "BP", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "196489.0", "Medical entity": "CK(CPK)", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "122780.0", "Medical entity": "bands", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "136058.0", "Medical entity": "RR (Spontaneous)", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "139574.0", "Medical entity": "hydral", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "117059.0", "Medical entity": "nph", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "104841.0", "Medical entity": "heparin drip", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "196489.0", "Medical entity": "Cl", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "101091.0", "Medical entity": "Cr", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "110614.0", "Medical entity": "Plt Ct", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "196489.0", "Medical entity": "BP", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "196489.0", "Medical entity": "Escitalopram", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "117059.0", "Medical entity": "prbc", "Number of inconsistencies": 2, "Has error": true, "split": "test"}
+{"Hospital admission": "196489.0", "Medical entity": "prednisone", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "101936.0", "Medical entity": "Dilaudid", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "114622.0", "Medical entity": "Metronidazole", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "104841.0", "Medical entity": "bolus", "Number of inconsistencies": 3, "Has error": true, "split": "test"}
+{"Hospital admission": "117059.0", "Medical entity": "reg", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "100696.0", "Medical entity": "PT", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "195041.0", "Medical entity": "Antibiotic oint", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "176182.0", "Medical entity": "SSRI", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "117059.0", "Medical entity": "Troponin", "Number of inconsistencies": 2, "Has error": true, "split": "test"}
+{"Hospital admission": "104910.0", "Medical entity": "creatinin2", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "104841.0", "Medical entity": "metoprolol", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "130334.0", "Medical entity": "statin", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "185917.0", "Medical entity": "LD(LDH)", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "100696.0", "Medical entity": "RR (Set)", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "141912.0", "Medical entity": "Potassium", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "110614.0", "Medical entity": "creatinine", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "196489.0", "Medical entity": "MRSA", "Number of inconsistencies": 2, "Has error": true, "split": "test"}
+{"Hospital admission": "196489.0", "Medical entity": "prednisone", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "100696.0", "Medical entity": "RR (Spontaneous)", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "110614.0", "Medical entity": "HCO3", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "104910.0", "Medical entity": "Tyleono", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "130334.0", "Medical entity": "Heparin Sodium", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "123298.0", "Medical entity": "Cr", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "104841.0", "Medical entity": "Heparin Sodium", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "110614.0", "Medical entity": "K", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "130334.0", "Medical entity": "BP", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "158018.0", "Medical entity": "cTropnT", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "195041.0", "Medical entity": "Temporary atrial sensitivity threshold", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "185917.0", "Medical entity": "CALCIUM", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "141912.0", "Medical entity": "Temperature", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "122780.0", "Medical entity": "head circumference", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "196489.0", "Medical entity": "Trop", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "136058.0", "Medical entity": "Mono", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "185917.0", "Medical entity": "RDW", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "101091.0", "Medical entity": "BP", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "101936.0", "Medical entity": "Albuterol", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "101936.0", "Medical entity": "E. cloacae,", "Number of inconsistencies": 2, "Has error": true, "split": "test"}
+{"Hospital admission": "114622.0", "Medical entity": "Mono", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "136058.0", "Medical entity": "N/C", "Number of inconsistencies": 2, "Has error": true, "split": "test"}
+{"Hospital admission": "122780.0", "Medical entity": "polys", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "185917.0", "Medical entity": "MCH", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "136058.0", "Medical entity": "hemovac", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "101091.0", "Medical entity": "Multi Lumen", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "100696.0", "Medical entity": "Lactic Acid", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "136058.0", "Medical entity": "Pacing wires", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "130334.0", "Medical entity": "PTT", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "195041.0", "Medical entity": "Daily weight", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "127294.0", "Medical entity": "fentanyl", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "110614.0", "Medical entity": "CK(CPK)", "Number of inconsistencies": 2, "Has error": true, "split": "test"}
+{"Hospital admission": "110614.0", "Medical entity": "Hct", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "101091.0", "Medical entity": "posaconazole", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "136058.0", "Medical entity": "Height", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "139574.0", "Medical entity": "ferritin", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "114042.0", "Medical entity": "leukocytosis", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "101936.0", "Medical entity": "Keppra", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "196489.0", "Medical entity": "WBC", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "130334.0", "Medical entity": "Dextrose 50%", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "114042.0", "Medical entity": "Insulin Glargine", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "176182.0", "Medical entity": "fluconazole", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "136058.0", "Medical entity": "Lymph", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "114622.0", "Medical entity": "ALT", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "110614.0", "Medical entity": "proBNP", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "196489.0", "Medical entity": "cTropnT", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "176182.0", "Medical entity": "bowel sounds", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "198892.0", "Medical entity": "Triplet #3", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "196489.0", "Medical entity": "Eos", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "110614.0", "Medical entity": "Docusate Sodium", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "196489.0", "Medical entity": "pantoprazole", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "110614.0", "Medical entity": "diltiazem", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "101091.0", "Medical entity": "HR", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "104841.0", "Medical entity": "ceftriaxone", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "196489.0", "Medical entity": "K", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "114042.0", "Medical entity": "systolic heart failure EF 40%", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "139574.0", "Medical entity": "cr", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "114622.0", "Medical entity": "RR", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "104841.0", "Medical entity": "Metoprolol", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "110614.0", "Medical entity": "T", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "114622.0", "Medical entity": "vanco", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "141912.0", "Medical entity": "Non-invasive BP", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "195041.0", "Medical entity": "Temporary atrial stimulation threshold", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "114042.0", "Medical entity": "Insulin", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "100696.0", "Medical entity": "Heparin Sodium", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "136058.0", "Medical entity": "SPO2", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "195041.0", "Medical entity": "CO2", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "139574.0", "Medical entity": "Metoprolol Tartrate", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "136058.0", "Medical entity": "Tmax", "Number of inconsistencies": 2, "Has error": true, "split": "test"}
+{"Hospital admission": "110614.0", "Medical entity": "Enoxaparin", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "195041.0", "Medical entity": "Glucose", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "104841.0", "Medical entity": "HR", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "139574.0", "Medical entity": "Sodium Chloride", "Number of inconsistencies": 2, "Has error": true, "split": "test"}
+{"Hospital admission": "104841.0", "Medical entity": "Multi Lumen", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "196489.0", "Medical entity": "cTropnT", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "130334.0", "Medical entity": "HR", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "196489.0", "Medical entity": "Senna", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "110614.0", "Medical entity": "atrial fibrillation with rapid ventricular response", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "139574.0", "Medical entity": "ALBUMIN", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "110614.0", "Medical entity": "CK(CPK)", "Number of inconsistencies": 2, "Has error": true, "split": "test"}
+{"Hospital admission": "195041.0", "Medical entity": "Temporary atrial sensitivity setting", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "104910.0", "Medical entity": "WBC", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "139574.0", "Medical entity": "PLT", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "185917.0", "Medical entity": "LACTATE", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "185917.0", "Medical entity": "BP", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "185917.0", "Medical entity": "WBC", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "110614.0", "Medical entity": "cTropnT", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "195041.0", "Medical entity": "Creatinine", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "139574.0", "Medical entity": "RBC", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "136058.0", "Medical entity": "HR", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "176182.0", "Medical entity": "WBC", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "101091.0", "Medical entity": "FiO2", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "176182.0", "Medical entity": "PTT", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "196489.0", "Medical entity": "cTropnT", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "117059.0", "Medical entity": "Hct", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "139574.0", "Medical entity": "lasix", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "122780.0", "Medical entity": "Mild respiratory distress secondary to retained fetal lung fluid", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "110614.0", "Medical entity": "Na", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "101936.0", "Medical entity": "Glargine", "Number of inconsistencies": 3, "Has error": true, "split": "test"}
+{"Hospital admission": "114042.0", "Medical entity": "Pantoprazole", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "114042.0", "Medical entity": "ph", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "196489.0", "Medical entity": "NC", "Number of inconsistencies": 2, "Has error": true, "split": "test"}
+{"Hospital admission": "104841.0", "Medical entity": "Mg++", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "117059.0", "Medical entity": "hct", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "130334.0", "Medical entity": "Simvastatin", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "158018.0", "Medical entity": "O2: sat", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "130334.0", "Medical entity": "18 Gauge", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "195041.0", "Medical entity": "Sodium", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "196489.0", "Medical entity": "Coronary Artery Disease", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "176182.0", "Medical entity": "mental status", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "127294.0", "Medical entity": "lopressor", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "130334.0", "Medical entity": "INR", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "196489.0", "Medical entity": "Creat", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "101091.0", "Medical entity": "Mono", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "101091.0", "Medical entity": "cellcept", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "136058.0", "Medical entity": "SPO2", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "110614.0", "Medical entity": "Calcium Carbonate", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "136058.0", "Medical entity": "KVO", "Number of inconsistencies": 2, "Has error": true, "split": "test"}
+{"Hospital admission": "101091.0", "Medical entity": "Tmax", "Number of inconsistencies": 2, "Has error": true, "split": "test"}
+{"Hospital admission": "114622.0", "Medical entity": "Arterial Line", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "101936.0", "Medical entity": "Ipratropium bromide", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "196489.0", "Medical entity": "K", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "136058.0", "Medical entity": "Chest tube - pleural", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "136058.0", "Medical entity": "Oxycodone-Acetaminophen", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "139574.0", "Medical entity": "metoprolol", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "122780.0", "Medical entity": "weight", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "196489.0", "Medical entity": "NG tube", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "185917.0", "Medical entity": "MCV", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "101091.0", "Medical entity": "ursodiol", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "110614.0", "Medical entity": "cTropnT", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "196489.0", "Medical entity": "CK(CPK)", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "101091.0", "Medical entity": "SpO2", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "101936.0", "Medical entity": "Dilaudid", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "185917.0", "Medical entity": "GLUCOSE", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "101091.0", "Medical entity": "Bowel sounds", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "101936.0", "Medical entity": "Aspirin", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "185917.0", "Medical entity": "MONOS", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "198892.0", "Medical entity": "Heart rate", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "139574.0", "Medical entity": "Timolol Maleate", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "127294.0", "Medical entity": "propofol", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "196489.0", "Medical entity": "CK-MB", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "196489.0", "Medical entity": "Monos", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "110614.0", "Medical entity": "oxygenation", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "114622.0", "Medical entity": "AST", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "195041.0", "Medical entity": "Temporary ventricular sensitivity setting", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "195041.0", "Medical entity": "O2 saturation", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "196489.0", "Medical entity": "Phos", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "101091.0", "Medical entity": "Mg++", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "114042.0", "Medical entity": "hypercholesterolemia", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "176182.0", "Medical entity": "Temperature", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "110614.0", "Medical entity": "HR", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "139574.0", "Medical entity": "HCT", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "136058.0", "Medical entity": "RISS", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "196489.0", "Medical entity": "PTT", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "139574.0", "Medical entity": "TOTAL CO2", "Number of inconsistencies": 2, "Has error": true, "split": "test"}
+{"Hospital admission": "196489.0", "Medical entity": "Na", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "114622.0", "Medical entity": "vanco", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "185917.0", "Medical entity": "BP", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "130334.0", "Medical entity": "PO4", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "130334.0", "Medical entity": "Magnesium Sulfate", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "141912.0", "Medical entity": "Chloride", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "196489.0", "Medical entity": "Esophagogastroduodenoscopy", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "176182.0", "Medical entity": "TPN", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "198892.0", "Medical entity": "respiratory rate", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "196489.0", "Medical entity": "CK(CPK)", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "104910.0", "Medical entity": "PRBC", "Number of inconsistencies": 2, "Has error": true, "split": "test"}
+{"Hospital admission": "139574.0", "Medical entity": "Albuterol Sulfate", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "158018.0", "Medical entity": "P", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "110614.0", "Medical entity": "Tylenol", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "176182.0", "Medical entity": "meropenem", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "114042.0", "Medical entity": "creatinine", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "114622.0", "Medical entity": "Norepinephrine", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "185917.0", "Medical entity": "POTASSIUM", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "114622.0", "Medical entity": "BP", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "158018.0", "Medical entity": "Ca", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "104841.0", "Medical entity": "Hct", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "185917.0", "Medical entity": "HGB", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "196489.0", "Medical entity": "Morphine", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "185917.0", "Medical entity": "BASOS", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "114042.0", "Medical entity": "ag", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "117059.0", "Medical entity": "Bs", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "196489.0", "Medical entity": "CK-MB", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "104841.0", "Medical entity": "PTT", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "176182.0", "Medical entity": "MTX", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "139574.0", "Medical entity": "BANDS", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "104841.0", "Medical entity": "Ceftriaxone", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "110614.0", "Medical entity": "Neuts", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "110614.0", "Medical entity": "Glucose", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "101936.0", "Medical entity": "Zyprexa", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "110614.0", "Medical entity": "LDLcalc", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "176182.0", "Medical entity": "morphine", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "139574.0", "Medical entity": "Epoetin Alfa", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "158018.0", "Medical entity": "BP", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "110614.0", "Medical entity": "Lovenox", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "196489.0", "Medical entity": "Mg", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "122780.0", "Medical entity": "temperature", "Number of inconsistencies": 2, "Has error": true, "split": "test"}
+{"Hospital admission": "110614.0", "Medical entity": "PTT", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "176182.0", "Medical entity": "fever", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "198892.0", "Medical entity": "Bilirubin", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "101091.0", "Medical entity": "Hct", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "195041.0", "Medical entity": "BUN", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "185917.0", "Medical entity": "UREA N", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "141912.0", "Medical entity": "O2 saturation", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "136058.0", "Medical entity": "Foley", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "185917.0", "Medical entity": "AST(SGOT)", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "136058.0", "Medical entity": "ARTERIAL LINE", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "139574.0", "Medical entity": "Iron", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "136058.0", "Medical entity": "BP", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "196489.0", "Medical entity": "arterial line placement", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "100696.0", "Medical entity": "Albumin", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "185917.0", "Medical entity": "MCV", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "136058.0", "Medical entity": "Wgt (current)", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "176182.0", "Medical entity": "WBC", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "100696.0", "Medical entity": "metoprolol", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "123298.0", "Medical entity": "NS", "Number of inconsistencies": 2, "Has error": true, "split": "test"}
+{"Hospital admission": "114622.0", "Medical entity": "aztreonam", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "101091.0", "Medical entity": "WBC", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "100696.0", "Medical entity": "Tcurrent", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "110614.0", "Medical entity": "metoprolol", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "176182.0", "Medical entity": "Morphine", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "100696.0", "Medical entity": "lactate", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "185917.0", "Medical entity": "WBC", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "139574.0", "Medical entity": "HR", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "139574.0", "Medical entity": "albumin", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "136058.0", "Medical entity": "leg JP drain", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "136058.0", "Medical entity": "Percocet", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "136058.0", "Medical entity": "Insulin", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "139574.0", "Medical entity": "MCH", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "100696.0", "Medical entity": "metoprolol", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "101936.0", "Medical entity": "CellCept", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "110614.0", "Medical entity": "Diltiazem HCl", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "136058.0", "Medical entity": "INR", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "110614.0", "Medical entity": "Calcium", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "114622.0", "Medical entity": "Ca++", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "196489.0", "Medical entity": "RBC", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "141912.0", "Medical entity": "Admission weight", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "100696.0", "Medical entity": "PIP", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "101091.0", "Medical entity": "Hct", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "139574.0", "Medical entity": "Congestive Heart Failure", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "104841.0", "Medical entity": "Height", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "185917.0", "Medical entity": "ALT(SGPT)", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "114622.0", "Medical entity": "Height", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "141912.0", "Medical entity": "Respiratory rate", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "196489.0", "Medical entity": "Plt Ct", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "100696.0", "Medical entity": "Ca++", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "185917.0", "Medical entity": "BNP", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "139574.0", "Medical entity": "Hematocrit", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "176182.0", "Medical entity": "Group A Strep", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "101091.0", "Medical entity": "Hct", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "114042.0", "Medical entity": "o2sat", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "110614.0", "Medical entity": "Cholecalciferol (Vitamin D3)", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "101091.0", "Medical entity": "prednisone", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "195041.0", "Medical entity": "original", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "101091.0", "Medical entity": "Hickman", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "122780.0", "Medical entity": "oxygen saturation", "Number of inconsistencies": 2, "Has error": true, "split": "test"}
+{"Hospital admission": "100696.0", "Medical entity": "Ve", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "101936.0", "Medical entity": "Cefepime", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "114622.0", "Medical entity": "Eos", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "127294.0", "Medical entity": "ps", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "139574.0", "Medical entity": "AST(SGOT)", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "104841.0", "Medical entity": "PTT", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "110614.0", "Medical entity": "delirium", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "104841.0", "Medical entity": "BP", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "117059.0", "Medical entity": "BS", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "185917.0", "Medical entity": "TOT BILI", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "100696.0", "Medical entity": "SpO2", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "100696.0", "Medical entity": "PS", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "195041.0", "Medical entity": "Respiratory rate", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "196489.0", "Medical entity": "Baso", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "123298.0", "Medical entity": "NS", "Number of inconsistencies": 2, "Has error": true, "split": "test"}
+{"Hospital admission": "139574.0", "Medical entity": "ANION GAP", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "101091.0", "Medical entity": "Height", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "110614.0", "Medical entity": "INR(PT)", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "101091.0", "Medical entity": "SpO2", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "110614.0", "Medical entity": "troponins", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "114042.0", "Medical entity": "anemia", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "101936.0", "Medical entity": "Diphtheroid", "Number of inconsistencies": 2, "Has error": true, "split": "test"}
+{"Hospital admission": "139574.0", "Medical entity": "Hydral", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "196489.0", "Medical entity": "cTropnT", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "139574.0", "Medical entity": "vanco", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "127294.0", "Medical entity": "ntg", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "185917.0", "Medical entity": "PLT COUNT", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "136058.0", "Medical entity": "Aspirin", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "100696.0", "Medical entity": "Tmax", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "114042.0", "Medical entity": "BP", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "110614.0", "Medical entity": "Lactate", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "196489.0", "Medical entity": "Neuts", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "104841.0", "Medical entity": "Tmax", "Number of inconsistencies": 2, "Has error": true, "split": "test"}
+{"Hospital admission": "139574.0", "Medical entity": "Isordil", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "127294.0", "Medical entity": "propofol", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "110614.0", "Medical entity": "CK-MB", "Number of inconsistencies": 1, "Has error": true, "split": "test"}
+{"Hospital admission": "139574.0", "Medical entity": "Cholestyramine", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "136058.0", "Medical entity": "MULTI LUMEN", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "139574.0", "Medical entity": "Loteprednol Etabonate", "Number of inconsistencies": 3, "Has error": true, "split": "test"}
+{"Hospital admission": "101936.0", "Medical entity": "Senna", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "196489.0", "Medical entity": "Levothyroxine", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "130334.0", "Medical entity": "Ca", "Number of inconsistencies": 0, "Has error": false, "split": "test"}
+{"Hospital admission": "127294.0", "Medical entity": "peep", "Number of inconsistencies": 0, "Has error": false, "split": "test"}

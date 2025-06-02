@@ -1,0 +1,14 @@
+{
+    "mimic_iii": {"train": 552, "test": 581},
+    "eicu": {"train": 559, "test": 610},
+    "treqs": {"train": 897, "test": 995},
+    "medcalcbench": {"train": 1005, "test": 1046},
+    "medagentbench": {"train": 239, "test": 59},
+    "biocoder": {"train": 981, "test": 156},
+    "ehrshot": {"train": 0, "test": 15},
+    "ehr_seqsql": {"train": 1000, "test": 500},
+    "ehrcon": {"train": 1000, "test": 500},
+    "biodsbench": {"train": 50, "test": 49},
+    "npowerai": {"train": 865, "test": 343},
+    "mimic_extract": {"train": 0, "test": 6}
+}
