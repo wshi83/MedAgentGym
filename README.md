@@ -1,4 +1,4 @@
-## EHR-GYM
+## MedAgentGYM
 This is the official repository for the paper: "Incentivizing Coding Capability in LLM Agents for Medical Reasoning with MedAgentGYM". 
 
 ### Dataset Access
