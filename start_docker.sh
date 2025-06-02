@@ -1,0 +1,1 @@
+docker buildx build -t ehr_gym:latest .

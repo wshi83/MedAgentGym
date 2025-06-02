@@ -1,0 +1,24 @@
+docker run \
+    --network host \
+    --shm-size=64g \
+    --gpus='"device=0"' \
+    -v <YOUR_PATH_TO_MEDAGENTGYM>/main.py:/home/main.py \
+    -v <YOUR_PATH_TO_MEDAGENTGYM>/rollout.py:/home/rollout.py \
+    -v <YOUR_PATH_TO_MEDAGENTGYM>/ehr_gym/env:/home/ehr_gym/env \
+    -v <YOUR_PATH_TO_MEDAGENTGYM>/ehr_gym/llm:/home/ehr_gym/llm \
+    -v <YOUR_PATH_TO_MEDAGENTGYM>/ehr_gym/agent:/home/ehr_gym/agent \
+    -v <YOUR_PATH_TO_MEDAGENTGYM>/ehr_gym/utils:/home/ehr_gym/utils \
+    -v <YOUR_PATH_TO_MEDAGENTGYM>/configs:/home/configs \
+    -v <YOUR_PATH_TO_MEDAGENTGYM>/data/ehr_seqsql:/home/data/ehr_seqsql \
+    -v <YOUR_PATH_TO_MEDAGENTGYM>/data/ehrcon:/home/data/ehrcon \
+    -v <YOUR_PATH_TO_MEDAGENTGYM>/data/npowerai:/home/data/npowerai \
+    -v <YOUR_PATH_TO_MEDAGENTGYM>/data/mimic_extract:/home/data/mimic_extract \
+    -v <YOUR_PATH_TO_MEDAGENTGYM>/cache:/home/cache \
+    -v <YOUR_PATH_TO_MEDAGENTGYM>/workdir:/home/workdir \
+    -v <YOUR_PATH_TO_MEDAGENTGYM>/entrypoint.sh:/home/entrypoint.sh \
+    -v <YOUR_PATH_TO_MEDAGENTGYM>/credentials.toml:/home/credentials.toml \
+    -v <YOUR_PATH_TO_MEDAGENTGYM>/credentials-o4.toml:/home/credentials-o4.toml \
+    -v <YOUR_PATH_TO_MEDAGENTGYM>/data/metadata.json:/home/data/metadata.json \
+    -v <YOUR_PATH_TO_MEDAGENTGYM>/data/rollout_indices.json:/home/data/rollout_indices.json \
+    -e TASK_NAME="eicu" \
+    -it ehr_gym:latest
