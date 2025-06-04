@@ -10,14 +10,14 @@
 </p>
 
 ## MedAgentGYM
-This is the official repository for the paper: "Incentivizing Coding Capability in LLM Agents for Medical Reasoning with MedAgentGYM". In the paper, we introduce MedAgentGYM, the first publicly available training environment designed to enhance coding-based medical reasoning capabilities in large language model (LLM) agents. 
+This is the official repository for the paper: "MedAgentGym: Training LLM Agents for Code-Based Medical Reasoning at Scale". In the paper, we introduce MedAgentGYM, the first publicly available training environment designed to enhance coding-based medical reasoning capabilities in large language model (LLM) agents. 
 
 <p align="center">
   <img src="./assets/figure1.png" width="100%" alt="teaser">
 </p>
 
 ### Dataset Access
-We provide the basic data of `train_tasks.jsonl` and `test_tasks.jsonl` in this repository. The full dataset can be downloaded via the scripts in `download_data.py`. This will automatically download the full datasets we have prepared and uploaded in a private repository of an anonymous HuggingFace Account. Please download the data into the directory `./data/`. The downloaded dataset should be like `./data/biocoder/*`. The dataset details involved in the paper are listed below:
+We provide the basic data of `train_tasks.jsonl` and `test_tasks.jsonl` in this repository, which contains. The full dataset can be downloaded via the scripts in `download_data.py`. This will automatically download the full datasets we have prepared and uploaded in a private repository of an anonymous HuggingFace Account. Please download the data into the directory `./data/`. The downloaded dataset should be like `./data/biocoder/*`. The dataset details involved in the paper are listed below:
 
 <p align="center">
   <img src="./assets/figure3.png" width="100%" alt="teaser">
