@@ -17,11 +17,18 @@ This is the official repository for the paper: "MedAgentGym: Training LLM Agents
 </p>
 
 ### Dataset Access
-We provide the basic data of `train_tasks.jsonl` and `test_tasks.jsonl` in this repository, which contains. The full dataset can be downloaded via the scripts in `download_data.py`. This will automatically download the full datasets we have prepared and uploaded in a private repository of an anonymous HuggingFace Account. Please download the data into the directory `./data/`. The downloaded dataset should be like `./data/biocoder/*`. The dataset details involved in the paper are listed below:
+
+#### EHR Data Access (<font color=#FF000>Important!!!</font>)
+MedAgentGym has been carefully curated with strict adherence to ethical standards, leveraging datasets that are publicly available or that incorporate rigorous privacy protection and anonymization measures. Table 7 in the Appendix provides detailed access requirements for each of the 12 datasets included in MedAgentGym. Researchers seeking access to preprocessed task and data files should first obtain and attach all required data usage agreements and submit a formal request via email to `wenqi.shi@utsouthwestern.edu`, using the subject line “MedAgentGym Preprocessed Data Access".
+
+#### Tasks Definition and Access
+We provide the basic data of `train_tasks.jsonl` and `test_tasks.jsonl` in this repository, which contains.
+Once the previous step is taken and the access is approved, we will send the applicants a `download_data.py` file to down load the entire pre-processed dataset from HuggingFace. This will automatically download the full datasets we have prepared and uploaded in a private repository of an anonymous HuggingFace Account. Please download the data into the directory `./data/`. The downloaded dataset should be like `./data/biocoder/*`. The dataset details involved in the paper are listed below:
 
 <p align="center">
   <img src="./assets/figure3.png" width="100%" alt="teaser">
 </p>
+
 
 ### Build Docker Container
 As our dataset is based on the docker environment for isolated coding and execution. Thus, you need to build the docker container first. Please run the following command:
