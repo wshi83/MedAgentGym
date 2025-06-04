@@ -39,7 +39,7 @@ Please prepare the experiment scripts in the `entrypoint.sh` file. For example i
 python3 /home/main.py --config /home/configs/gpt_4_1_mini/exp-gpt_4_1_mini-biocoder.yaml --async_run --parallel_backend joblib --n_jobs 5
 ```
 
-## Conclusions
+## Results
 
 ### Sampled Data Helps Agent Training
 
@@ -69,7 +69,7 @@ The table below compares several post-training methods, revealing that simple SF
 ## 📚 Citation
 
 ```bibtex
-@misc{shi2025medagentgym,
+@misc{xu2025medagentgym,
       title={MedAgentGYM: Training LLM Agents for Code-Based Medical Reasoning at Scale}, 
       author={Ran Xu and Yuchen Zhuang and Yishan Zhong and Yue Yu and Xiangru Tang and Hang Wu and May D. Wang and Peifeng Ruan and Donghan Yang and Tao Wang and Guanhua Xiao and Carl Yang and Yang Xie and Wenqi Shi},
       year={2025},
