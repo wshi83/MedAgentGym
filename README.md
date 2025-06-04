@@ -19,7 +19,7 @@ This is the official repository for the paper: "MedAgentGym: Training LLM Agents
 ### Dataset Access
 
 #### EHR Data Access (<font color=#FF000>Important!!!</font>)
-MedAgentGym has been carefully curated with strict adherence to ethical standards, leveraging datasets that are publicly available or that incorporate rigorous privacy protection and anonymization measures. Table 7 in the Appendix provides detailed access requirements for each of the 12 datasets included in MedAgentGym. Researchers seeking access to preprocessed task and data files should first obtain and attach all required data usage agreements and submit a formal request via email to `wenqi.shi@utsouthwestern.edu`, using the subject line “MedAgentGym Preprocessed Data Access".
+MedAgentGym has been carefully curated with strict adherence to ethical standards, leveraging datasets that are publicly available or that incorporate rigorous privacy protection and anonymization measures. Table 7 in the Appendix provides detailed access requirements for each of the 12 datasets included in MedAgentGym. Researchers seeking access to preprocessed task and data files should first obtain and attach all required data usage agreements and submit a formal request via email to `medagentgym@gmail.com`, using the subject line “MedAgentGym Preprocessed Data Access".
 
 #### Tasks Definition and Access
 We provide the basic data of `train_tasks.jsonl` and `test_tasks.jsonl` in this repository, which contains.
