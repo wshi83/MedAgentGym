@@ -4,7 +4,9 @@
 
 ----
 <p align="center">
-<a href="https://arxiv.org/">📃 Paper</a>
+<a href="https://arxiv.org/pdf/2506.04405">📃 Paper</a>
+•
+<a href="https://wshi83.github.io/MedAgentGym-Page/">📜 Document</a>
 •
 <a href="https://huggingface.co/MedAgentGym" >🤗 Data & Models</a>
 </p>
