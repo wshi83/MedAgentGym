@@ -4,12 +4,12 @@
 
 ----
 <p align="center">
-<a href="https://arxiv.org/pdf/2506.04405">📃 Paper</a>
-•
-<a href="https://wshi83.github.io/MedAgentGym-Page/">📜 Document</a>
-•
-<a href="https://huggingface.co/MedAgentGym" >🤗 Data & Models</a>
+  <a href="https://www.arxiv.org/abs/2506.04405" target="_blank"><img src="https://img.shields.io/badge/arXiv-2506.02911-FF6B6B?style=for-the-badge&logo=arxiv&logoColor=white" alt="arXiv"></a>
+  <a href="https://wshi83.github.io/MedAgentGym-Page"><img src="https://img.shields.io/badge/GitHub-Code-4A90E2?style=for-the-badge&logo=github&logoColor=white" alt="Documentation"></a>
+  <a href="https://huggingface.co/datasets/MedAgentGym/SampledTrajs"><img src="https://img.shields.io/badge/HuggingFace-Dataset-FFBF00?style=for-the-badge&logo=huggingface&logoColor=white" alt="HuggingFace Dataset"></a>
+  <a href="https://huggingface.co/MedAgentGym"><img src="https://img.shields.io/badge/HuggingFace-Model-FFBF00?style=for-the-badge&logo=huggingface&logoColor=white" alt="HuggingFace Model"></a>
 </p>
+
 
 ## MedAgentGYM
 This is the official repository for the paper: "MedAgentGym: Training LLM Agents for Code-Based Medical Reasoning at Scale". In the paper, we introduce MedAgentGYM, the first publicly available training environment designed to enhance coding-based medical reasoning capabilities in large language model (LLM) agents. 
