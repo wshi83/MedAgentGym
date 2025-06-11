@@ -24,8 +24,8 @@ This is the official repository for the paper: "MedAgentGym: Training LLM Agents
 MedAgentGym has been carefully curated with strict adherence to ethical standards, leveraging datasets that are publicly available or that incorporate rigorous privacy protection and anonymization measures. Table 7 in the Appendix provides detailed access requirements for each of the 12 datasets included in MedAgentGym. Researchers seeking access to preprocessed task and data files should first obtain and attach all required data usage agreements and submit a formal request via email to `medagentgym@gmail.com`, using the subject line “MedAgentGym Preprocessed Data Access".
 
 #### Tasks Definition and Access
-We provide the basic data of `train_tasks.jsonl` and `test_tasks.jsonl` in this repository, which contains.
-Once the previous step is taken and the access is approved, we will send the applicants a `download_data.py` file to down load the entire pre-processed dataset from HuggingFace. This will automatically download the full datasets we have prepared and uploaded in a private repository of an anonymous HuggingFace Account. Please download the data into the directory `./data/`. The downloaded dataset should be like `./data/biocoder/*`. The dataset details involved in the paper are listed below:
+This repository contains basic task files `train_tasks.jsonl` and `test_tasks.jsonl`, each including the task ID, task description, question, and corresponding ground truth answer.
+After completing the previous step and obtaining approval for access, applicants will receive a script (`download_data.py`) to download the entire preprocessed dataset from a private repository. This script will automatically download all datasets into the `./data/` directory. The downloaded datasets should be structured as `./data/biocoder/*`. Detailed descriptions of the datasets utilized in this paper are provided below:
 
 <p align="center">
   <img src="./assets/figure3.png" width="100%" alt="teaser">
@@ -33,17 +33,17 @@ Once the previous step is taken and the access is approved, we will send the app
 
 
 ### Build Docker Container
-As our dataset is based on the docker environment for isolated coding and execution. Thus, you need to build the docker container first. Please run the following command:
+Since our dataset relies on a Docker environment for isolated coding and execution, you may first build the Docker container. Please execute the following command:
 ```bash
 docker buildx build -t ehr_gym:latest .
 ```
-or directly run the command we have prepared:
+Alternatively, you can run the prepared script directly:
 ```bash
 bash build_docker.sh
 ```
 
 ### Run Experiment
-Please prepare the experiment scripts in the `entrypoint.sh` file. For example if we wnat to run the experiments on biocoder task and test the performance of gpt-4.1-mini. We can run the following command for 5-thread parallel running:
+Prepare your experiment commands in the `entrypoint.sh` file. For instance, to run experiments on the Biocoder task using the GPT-4.1-mini model, execute the following command for parallel execution with 5 threads:
 ```bash
 python3 /home/main.py --config /home/configs/gpt_4_1_mini/exp-gpt_4_1_mini-biocoder.yaml --async_run --parallel_backend joblib --n_jobs 5
 ```
