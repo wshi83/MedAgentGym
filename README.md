@@ -4,7 +4,7 @@
 
 ----
 <p align="center">
-  <a href="https://www.arxiv.org/abs/2506.04405" target="_blank"><img src="https://img.shields.io/badge/arXiv-2506.02911-FF6B6B?style=for-the-badge&logo=arxiv&logoColor=white" alt="arXiv"></a>
+  <a href="https://openreview.net/forum?id=jHDZEUgS4r" target="_blank"><img src="https://img.shields.io/badge/arXiv-2506.02911-FF6B6B?style=for-the-badge&logo=arxiv&logoColor=white" alt="arXiv"></a>
   <a href="https://wshi83.github.io/MedAgentGym-Page"><img src="https://img.shields.io/badge/Doc-Documentation-4285F4?style=for-the-badge&logo=googledocs&logoColor=white" alt="Documentation"></a>
   <a href="https://huggingface.co/MedAgentGym"><img src="https://img.shields.io/badge/HuggingFace-Model&Data-FFBF00?style=for-the-badge&logo=huggingface&logoColor=white" alt="HF Model&Data"></a>
   <a href="mailto:medagentgym@gmail.com"><img src="https://img.shields.io/badge/Email-Question-30B980?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Email Question"></a>
