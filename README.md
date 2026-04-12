@@ -84,10 +84,12 @@ The table below compares several post-training methods, revealing that simple SF
 ## 📚 Citation
 
 ```bibtex
-@article{xu2025medagentgym,
-  title={MedAgentGym: Training LLM Agents for Code-Based Medical Reasoning at Scale},
-  author={Xu, Ran and Zhuang, Yuchen and Zhong, Yishan and Yu, Yue and Tang, Xiangru and Wu, Hang and Wang, May D and Ruan, Peifeng and Yang, Donghan and Wang, Tao and Xiao, Guanghua and Yang, Carl and Xie, Yang and Shi, Wenqi},
-  journal={arXiv preprint arXiv:2506.04405},
-  year={2025}
+@inproceedings{
+xu2026medagentgym,
+title={MedAgentGym: A Scalable Agentic Training Environment for Code-Centric Reasoning in Biomedical Data Science},
+author={Ran Xu and Yuchen Zhuang and Yishan Zhong and Yue Yu and Zifeng Wang and Xiangru Tang and Hang Wu and May Dongmei Wang and Peifeng Ruan and Donghan Yang and Tao Wang and Guanghua Xiao and Xin Liu and Carl Yang and Yang Xie and Wenqi Shi},
+booktitle={The Fourteenth International Conference on Learning Representations},
+year={2026},
+url={https://openreview.net/forum?id=jHDZEUgS4r}
 }
 ```
